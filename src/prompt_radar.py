@@ -502,7 +502,8 @@ def main() -> int:
 
     ranked: list[Candidate] = []
     for item in items:
-        if item.tweet_id in seen:
+        seen_date = seen.get(item.tweet_id)
+        if seen_date and seen_date != run_date.isoformat():
             continue
         if not disable_enrichment and not args.fixture:
             enrich_candidate(item, timeout)
