@@ -56,6 +56,25 @@ PROMPT_TERMS = (
     "görsel üret",
     "video üret",
 )
+PROMPT_PAYLOAD_MARKERS = (
+    "system prompt",
+    "image prompt",
+    "video prompt",
+    "ai prompt:",
+    "prompt for",
+    "prompt below",
+    "prompt used",
+    "prompt in the comment",
+    "prompt in comments",
+    "prompt_details",
+    "negative_prompt",
+    '"prompt":',
+    "'prompt':",
+    "prompt👇",
+    "prompt 👇",
+    "prompt⬇",
+    "prompt ⬇",
+)
 
 
 @dataclass
@@ -294,6 +313,37 @@ def prompt_likelihood(text: str) -> float:
     return min(35.0, term_hits * 5.0 + structure)
 
 
+def is_prompt_content(text: str) -> bool:
+    lowered = text.lower()
+    if any(marker in lowered for marker in PROMPT_PAYLOAD_MARKERS):
+        return True
+    if re.search(r"\bprompt\s*[:：]\s*\S", lowered):
+        return True
+    # Some creators start directly with an imperative instead of adding a
+    # Prompt label. Require both detailed generation language and substantial
+    # payload length so ordinary AI news is not mistaken for a prompt.
+    generation_openers = (
+        "create a ",
+        "generate a ",
+        "an ultra-realistic ",
+        "a cinematic ",
+        "cinematic photoreal",
+    )
+    visual_specs = (
+        "lighting",
+        "camera",
+        "aspect ratio",
+        "depth of field",
+        "photorealistic",
+        "negative prompt",
+    )
+    return (
+        len(text) >= 220
+        and any(opener in lowered for opener in generation_openers)
+        and sum(spec in lowered for spec in visual_specs) >= 2
+    )
+
+
 def freshness_score(published_at: str, now: datetime) -> float:
     if not published_at:
         return 2.0
@@ -457,6 +507,8 @@ def main() -> int:
         if not disable_enrichment and not args.fixture:
             enrich_candidate(item, timeout)
         extract_inline_counts(item)
+        if not is_prompt_content(item.text):
+            continue
         if score_candidate(item, now) >= min_score:
             ranked.append(item)
 
