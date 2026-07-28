@@ -90,6 +90,8 @@ class Candidate:
     replies: int = 0
     views: int = 0
     score: float = 0.0
+    preview_url: str = ""
+    preview_path: str = ""
 
 
 def request_bytes(url: str, timeout: int) -> bytes:
@@ -283,12 +285,52 @@ def enrich_candidate(item: Candidate, timeout: int) -> Candidate:
         item.reposts = parse_count(tweet.get("retweets"))
         item.replies = parse_count(tweet.get("replies"))
         item.views = parse_count(tweet.get("views"))
+        media = tweet.get("media") or {}
+        media_items = media.get("all") or []
+        if media_items and isinstance(media_items[0], dict):
+            first_media = media_items[0]
+            item.preview_url = str(
+                first_media.get("thumbnail_url")
+                or first_media.get("url")
+                or ""
+            )
         canonical = tweet.get("url")
         if isinstance(canonical, str) and X_URL_RE.search(canonical):
             item.url = canonical.replace("twitter.com", "x.com")
     except Exception as exc:  # Network providers are deliberately best-effort.
         print(f"warning: enrichment failed for {item.tweet_id}: {exc}", file=sys.stderr)
     return item
+
+
+def preview_extension(url: str) -> str:
+    suffix = Path(urllib.parse.urlparse(url).path).suffix.lower()
+    if suffix in {".jpg", ".jpeg", ".png", ".webp", ".gif"}:
+        return ".jpg" if suffix == ".jpeg" else suffix
+    return ".jpg"
+
+
+def download_preview(item: Candidate, run_date: date, timeout: int) -> None:
+    if not item.preview_url:
+        return
+    relative = (
+        Path("assets")
+        / run_date.isoformat()
+        / f"{item.tweet_id}{preview_extension(item.preview_url)}"
+    )
+    absolute = ROOT / "archive" / f"{run_date:%Y}" / f"{run_date:%m}" / relative
+    try:
+        absolute.parent.mkdir(parents=True, exist_ok=True)
+        if not absolute.exists():
+            raw = request_bytes(item.preview_url, timeout)
+            if len(raw) > 5_000_000:
+                raise ValueError("preview exceeds 5 MB")
+            absolute.write_bytes(raw)
+        item.preview_path = relative.as_posix()
+    except Exception as exc:
+        print(
+            f"warning: preview download failed for {item.tweet_id}: {exc}",
+            file=sys.stderr,
+        )
 
 
 def extract_inline_counts(item: Candidate) -> None:
@@ -418,9 +460,10 @@ def write_outputs(items: list[Candidate], run_date: date, seen_path: Path) -> No
         lines.extend(
             [
                 "| # | Puan | Yazar | Etkileşim | Prompt / paylaşım |",
-                "|---:|---:|---|---:|---|",
+                "|---:|---:|---|---:|---|---|",
             ]
         )
+        lines[-2] = "| # | Görsel | Puan | Yazar | Etkileşim | Prompt / paylaşım |"
         for index, item in enumerate(items, 1):
             engagement = (
                 f"❤ {item.likes} · 🔁 {item.reposts} · 👁 {item.views}"
@@ -429,8 +472,13 @@ def write_outputs(items: list[Candidate], run_date: date, seen_path: Path) -> No
             if len(excerpt) > 320:
                 excerpt = excerpt[:317].rstrip() + "…"
             author = f"@{markdown_escape(item.author)}" if item.author else "—"
+            preview = (
+                f'<img src="{item.preview_path}" width="160" alt="Prompt görseli">'
+                if item.preview_path
+                else "—"
+            )
             lines.append(
-                f"| {index} | {item.score:.2f} | {author} | {engagement} | "
+                f"| {index} | {preview} | {item.score:.2f} | {author} | {engagement} | "
                 f"[{excerpt or 'Gönderiyi aç'}]({item.url}) |"
             )
     lines.extend(
@@ -514,8 +562,12 @@ def main() -> int:
             ranked.append(item)
 
     ranked.sort(key=lambda item: (-item.score, item.tweet_id))
-    write_outputs(ranked[:max_items], run_date, seen_path)
-    print(f"archived {min(len(ranked), max_items)} new prompt(s)")
+    selected = ranked[:max_items]
+    if not args.fixture:
+        for item in selected:
+            download_preview(item, run_date, timeout)
+    write_outputs(selected, run_date, seen_path)
+    print(f"archived {len(selected)} new prompt(s)")
     return 0
 
 
