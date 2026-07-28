@@ -43,7 +43,7 @@ jobs:
 
       - name: Commit daily archive
         run: |
-          if git diff --quiet -- archive data; then
+          if [ -z "$(git status --porcelain -- archive data)" ]; then
             echo "No new archive changes."
             exit 0
           fi
