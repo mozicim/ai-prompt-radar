@@ -149,6 +149,66 @@ def discover_from_feed(raw: bytes, query: str) -> list[Candidate]:
     return found
 
 
+def discover_from_search_results(
+    results: Iterable[dict[str, object]], query: str
+) -> list[Candidate]:
+    found: list[Candidate] = []
+    for result in results:
+        href = str(result.get("href") or result.get("url") or "")
+        title = clean_text(str(result.get("title") or ""))
+        body = clean_text(str(result.get("body") or result.get("description") or ""))
+        haystack = " ".join((href, title, body))
+        for match in X_URL_RE.finditer(haystack):
+            found.append(
+                Candidate(
+                    tweet_id=match.group("id"),
+                    url=f"https://x.com/{match.group('user')}/status/{match.group('id')}",
+                    author=match.group("user"),
+                    text=" ".join(part for part in (title, body) if part),
+                    discovered_by=[f"web:{query}"],
+                )
+            )
+    return found
+
+
+def discover_with_metasearch(queries: list[str], timeout: int) -> list[Candidate]:
+    try:
+        from ddgs import DDGS
+    except ImportError:
+        print("warning: ddgs is unavailable; using RSS discovery only", file=sys.stderr)
+        return []
+
+    found: list[Candidate] = []
+    # Broad queries cover the main visual/video prompt tools while keeping the
+    # number of anonymous search requests polite and GitHub Actions-friendly.
+    metasearch_queries = [
+        'site:x.com/*/status ("Nano Banana" OR "GPT Image") prompt',
+        'site:x.com/*/status ("Veo" OR "Kling" OR "Sora") prompt',
+        'site:x.com/*/status ("Midjourney" OR "Flux") prompt',
+        'site:x.com/*/status "AI prompt" cinematic',
+        'site:x.com/*/status ("görsel prompt" OR "video promptu")',
+    ]
+    metasearch_queries.extend(queries[:3])
+
+    client = DDGS(timeout=timeout)
+    for index, query in enumerate(dict.fromkeys(metasearch_queries)):
+        try:
+            results = client.text(
+                query,
+                region="wt-wt",
+                safesearch="moderate",
+                timelimit="m",
+                max_results=15,
+                backend="auto",
+            )
+            found.extend(discover_from_search_results(results, query))
+        except Exception as exc:
+            print(f"warning: metasearch failed for {query}: {exc}", file=sys.stderr)
+        if index + 1 < len(metasearch_queries):
+            time.sleep(0.8)
+    return found
+
+
 def merge_candidates(items: Iterable[Candidate]) -> list[Candidate]:
     merged: dict[str, Candidate] = {}
     for item in items:
@@ -351,7 +411,7 @@ def collect(queries: list[str], timeout: int, fixture: Path | None) -> list[Cand
     if fixture:
         return load_fixture(fixture, queries)
 
-    discovered: list[Candidate] = []
+    discovered: list[Candidate] = discover_with_metasearch(queries, timeout)
     urls: list[tuple[str, str]] = []
     for query in queries:
         urls.extend((url, query) for url in search_feed_urls(query))
