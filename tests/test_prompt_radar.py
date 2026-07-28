@@ -7,6 +7,7 @@ from src.prompt_radar import (
     discover_from_search_results,
     extract_inline_counts,
     is_prompt_content,
+    markdown_code_block,
     merge_candidates,
     prompt_likelihood,
     preview_extension,
@@ -85,6 +86,12 @@ class PromptRadarTests(unittest.TestCase):
             preview_extension("https://example.com/thumbnail"),
             ".jpg",
         )
+
+    def test_full_prompt_code_block_preserves_text(self) -> None:
+        prompt = "Create a cinematic portrait with precise lighting details."
+        rendered = markdown_code_block(prompt)
+        self.assertEqual(rendered[1], prompt)
+        self.assertTrue(rendered[0].endswith("text"))
 
 
 if __name__ == "__main__":
