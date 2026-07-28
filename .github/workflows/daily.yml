@@ -7,6 +7,7 @@ on:
       - "src/**"
       - "config/**"
       - "tests/**"
+      - "requirements.txt"
       - ".github/workflows/daily.yml"
   schedule:
     - cron: "15 6 * * *"
