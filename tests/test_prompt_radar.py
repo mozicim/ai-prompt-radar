@@ -4,6 +4,7 @@ import unittest
 
 from src.prompt_radar import (
     discover_from_feed,
+    discover_from_search_results,
     extract_inline_counts,
     merge_candidates,
     prompt_likelihood,
@@ -28,6 +29,21 @@ class PromptRadarTests(unittest.TestCase):
         merged = merge_candidates(first + second)
         self.assertEqual(len(merged), 1)
         self.assertEqual(merged[0].discovered_by, ["one", "two"])
+
+    def test_discovers_x_status_from_metasearch_result(self) -> None:
+        items = discover_from_search_results(
+            [
+                {
+                    "title": "Popular Nano Banana prompt",
+                    "href": "https://x.com/promptartist/status/9876543210987654321",
+                    "body": "A cinematic portrait prompt with 50K views",
+                }
+            ],
+            "nano banana prompt",
+        )
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0].tweet_id, "9876543210987654321")
+        self.assertEqual(items[0].author, "promptartist")
 
     def test_scores_prompt_and_engagement(self) -> None:
         item = discover_from_feed(FIXTURE.read_bytes(), "fixture")[0]
