@@ -1,6 +1,13 @@
 name: Daily AI Prompt Radar
 
 on:
+  push:
+    branches: ["main"]
+    paths:
+      - "src/**"
+      - "config/**"
+      - "tests/**"
+      - ".github/workflows/daily.yml"
   schedule:
     - cron: "15 6 * * *"
   workflow_dispatch:
