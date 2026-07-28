@@ -9,6 +9,7 @@ from src.prompt_radar import (
     is_prompt_content,
     merge_candidates,
     prompt_likelihood,
+    preview_extension,
     score_candidate,
 )
 
@@ -73,6 +74,16 @@ class PromptRadarTests(unittest.TestCase):
                 "Video Prompt: A cinematic macro world on a frozen lake, "
                 "camera slowly pushes forward with dramatic blue lighting."
             )
+        )
+
+    def test_preview_extension_uses_supported_image_type(self) -> None:
+        self.assertEqual(
+            preview_extension("https://pbs.twimg.com/media/example.png?name=large"),
+            ".png",
+        )
+        self.assertEqual(
+            preview_extension("https://example.com/thumbnail"),
+            ".jpg",
         )
 
 
