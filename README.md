@@ -12,8 +12,9 @@ amaçlayan otomasyon.
 3. Erişilebilen gönderileri anahtarsız herkese açık embed uç noktasıyla
    zenginleştirir.
 4. Prompt olma ihtimali, güncellik ve etkileşim sayılarına göre puanlar.
-5. Sonuçları `archive/YYYY/MM/YYYY-MM-DD.md` ve `.json` dosyalarına yazar.
-6. GitHub Actions her gün otomatik çalışır ve yeni arşivi depoya işler.
+5. Gönderinin ilk görselini veya video kapak görselini indirip arşivde önizler.
+6. Sonuçları `archive/YYYY/MM/YYYY-MM-DD.md` ve `.json` dosyalarına yazar.
+7. GitHub Actions her gün otomatik çalışır ve yeni arşivi depoya işler.
 
 > [!IMPORTANT]
 > X'in resmi API'si kullanılmadığı için bu yöntem tüm X akışını eksiksiz
