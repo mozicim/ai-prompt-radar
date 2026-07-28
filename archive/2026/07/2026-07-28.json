@@ -1,83 +1,8 @@
 {
   "date": "2026-07-28",
-  "count": 45,
+  "count": 14,
   "method": "public-search-rss-plus-keyless-public-embed",
   "items": [
-    {
-      "tweet_id": "2071988351083921690",
-      "url": "https://x.com/OfficialLoganK/status/2071988351083921690",
-      "author": "OfficialLoganK",
-      "text": "Introducing Nano Banana 2 Lite 🍌 and Gemini Omni Flash 🔮, our new generative media models in the Gemini API and AI Studio! Nano Banana 2 Lite is extremely fast (<4s image) & cheap ($0.034 / 1K image). Omni Flash is SOTA at video editing at $0.10 / sec, same as Veo 3.1 Fast!",
-      "published_at": "Tue Jun 30 16:04:53 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com/*/status (\"Nano Banana\" OR \"GPT Image\") prompt"
-      ],
-      "likes": 3764,
-      "reposts": 331,
-      "replies": 298,
-      "views": 556743,
-      "score": 68.45
-    },
-    {
-      "tweet_id": "2074418328974840291",
-      "url": "https://x.com/SolarBIade/status/2074418328974840291",
-      "author": "SolarBIade",
-      "text": "“Due to licensing issues with both Square and Disney, it’s impossible for any developer to get the rights to Sora” “With the sole exception of Masahiro Sakurai of course”",
-      "published_at": "Tue Jul 07 09:00:45 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com/*/status (\"Veo\" OR \"Kling\" OR \"Sora\") prompt"
-      ],
-      "likes": 35387,
-      "reposts": 2736,
-      "replies": 30,
-      "views": 1052474,
-      "score": 68.4
-    },
-    {
-      "tweet_id": "2074581979765539153",
-      "url": "https://x.com/arena/status/2074581979765539153",
-      "author": "arena",
-      "text": "Exciting news: Meta’s Muse Image just claimed #2 in the Image Arena! Muse Image from @AIatMeta now ranks second only to OpenAI's GPT Image 2, outperforming Nano Banana, Grok Imagine, MAI Image, and many other leading image models. It holds #2 across the board: Text-to-Image, Single-Image Edit, and Multi-Image Edit. Congrats to the Meta team on this incredible milestone!",
-      "published_at": "Tue Jul 07 19:51:02 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com/*/status (\"Nano Banana\" OR \"GPT Image\") prompt"
-      ],
-      "likes": 1549,
-      "reposts": 170,
-      "replies": 74,
-      "views": 198611,
-      "score": 66.7
-    },
-    {
-      "tweet_id": "2071989578672595413",
-      "url": "https://x.com/GoogleAIStudio/status/2071989578672595413",
-      "author": "GoogleAIStudio",
-      "text": "introducing nano banana 2 lite: our fastest, most cost-effective gemini image model yet built for high-velocity developer pipelines, it delivers text-to-image outputs in 4 seconds at just $0.034 per 1K-resolution image swap it into your workflow today via ai studio and the gemini api",
-      "published_at": "Tue Jun 30 16:09:45 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com/*/status (\"Nano Banana\" OR \"GPT Image\") prompt"
-      ],
-      "likes": 2811,
-      "reposts": 264,
-      "replies": 92,
-      "views": 263246,
-      "score": 64.56
-    },
-    {
-      "tweet_id": "2081008781870198975",
-      "url": "https://x.com/dreamingtulpa/status/2081008781870198975",
-      "author": "dreamingtulpa",
-      "text": "seriously impressed by how flux 3 can do dialogue with super vague prompts like \"ranting about ai\"",
-      "published_at": "Sat Jul 25 13:28:51 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com/*/status (\"Midjourney\" OR \"Flux\") prompt"
-      ],
-      "likes": 2871,
-      "reposts": 197,
-      "replies": 122,
-      "views": 257243,
-      "score": 61.07
-    },
     {
       "tweet_id": "2079792130114171357",
       "url": "https://x.com/IamEmily2050/status/2079792130114171357",
@@ -90,7 +15,7 @@
       "likes": 114,
       "reposts": 9,
       "replies": 15,
-      "views": 4696,
+      "views": 4697,
       "score": 59.06
     },
     {
@@ -105,38 +30,8 @@
       "likes": 72,
       "reposts": 2,
       "replies": 6,
-      "views": 5155,
+      "views": 5156,
       "score": 58.29
-    },
-    {
-      "tweet_id": "2073462823179731032",
-      "url": "https://x.com/alex_prompter/status/2073462823179731032",
-      "author": "alex_prompter",
-      "text": "There are layers of working with AI. Prompt engineering. Context engineering. Harness engineering. Loop engineering. Layer 1 is prompt engineering. What you type into the chat window. How you word the instruction, what you ask for, what you tell it to avoid. This is where everyone starts. It matters, but few people go further. Layer 2 is context engineering. Everything the model sees before your prompt. System instructions, reference files, conversation history, examples of good output. A mediocre prompt with great context beats a great prompt with no context every time. Layer 3 is harness engineering. The code around the model. Tool routing, verification steps, retry logic, structured outputs. This is what makes AI reliable instead of just impressive. When the model checks its own work before returning it to you, that's the harness. Layer 4 is loop engineering. The system runs itself. You set a goal and a stop condition. The loop prompts the model, checks the output, adjusts, and repeats without you. This is where you stop being the bottleneck entirely. Each layer wraps the one before it. Better prompts help, but without context the model guesses. Context helps, but without a harness the output is inconsistent. A harness helps, but without a loop you're still manually triggering every run. Full setup guide for all 4 layers using Fable 5 below.",
-      "published_at": "Sat Jul 04 17:43:54 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com \"AI prompt\""
-      ],
-      "likes": 1281,
-      "reposts": 272,
-      "replies": 46,
-      "views": 107318,
-      "score": 57.56
-    },
-    {
-      "tweet_id": "2078116817818812823",
-      "url": "https://x.com/altiamkabir/status/2078116817818812823",
-      "author": "altiamkabir",
-      "text": "🚨 If someone offered you $50,000 to spend a weekend making an AI commercial... I'd seriously consider it. Runway's Another Big Ad Contest is now live with up to $100K in prizes and 15 winners. If I entered, I'd probably take the open brief and create a cinematic ad for a fictional AI product. The fun part is being able to mix and match models like Gen-4.5, Veo 3.1, Kling 3.0, and more, all inside Runway. @altiamkabir @anthara_ai We should team up for this. 👀 It's open to anyone with an active Runway subscription. Enter solo or as a team, submit as many ads as you want, and don't wait too long because entries close July 31. Another Big Ad Contest is live now: https://runwayml.com/sumonkabir_ai-contest Use code ANOTHER for 30% off one month of any Runway plan. @runwayml #RunwayBigAdContest #ad",
-      "published_at": "Fri Jul 17 13:57:13 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com/*/status (\"Veo\" OR \"Kling\" OR \"Sora\") prompt"
-      ],
-      "likes": 40,
-      "reposts": 13,
-      "replies": 21,
-      "views": 2154,
-      "score": 57.29
     },
     {
       "tweet_id": "2081952214340534617",
@@ -150,23 +45,8 @@
       "likes": 12,
       "reposts": 3,
       "replies": 3,
-      "views": 50992,
+      "views": 51015,
       "score": 56.8
-    },
-    {
-      "tweet_id": "2080318877154852912",
-      "url": "https://x.com/venturetwins/status/2080318877154852912",
-      "author": "venturetwins",
-      "text": "I've been playing around with FLUX 3 for the last few week - it's an incredibly impressive model. It can generate up to 20 seconds of video across multiple shots with one prompt 🤯 This model is so strong at the little details that make a clip look real - a few favorites 👇",
-      "published_at": "Thu Jul 23 15:47:25 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com/*/status (\"Midjourney\" OR \"Flux\") prompt"
-      ],
-      "likes": 653,
-      "reposts": 55,
-      "replies": 39,
-      "views": 63115,
-      "score": 56.37
     },
     {
       "tweet_id": "2081203021782962189",
@@ -181,7 +61,7 @@
       "likes": 19,
       "reposts": 2,
       "replies": 2,
-      "views": 182293,
+      "views": 182320,
       "score": 55.84
     },
     {
@@ -230,21 +110,6 @@
       "score": 52.68
     },
     {
-      "tweet_id": "2072002613701398780",
-      "url": "https://x.com/rohanpaul_ai/status/2072002613701398780",
-      "author": "rohanpaul_ai",
-      "text": "Google released Nano Banana 2 Lite, a 4-second image model, alongside Gemini Omni Flash. Image generation usually breaks creative work because every trial costs time, money, and attention. The lighter image model lowers that friction with 4-second outputs at $0.034 per 1K-resolution image. Chaining both models is the real product shape, not either model alone. Nano Banana 2 Lite makes reference images, then Gemini Omni Flash animates them. Google positions it as the replacement for gemini-2.5-flash-image across high-volume developer pipelines. Users still need prompt adherence, stable characters, and readable text during fast visual testing. Gemini Omni Flash extends the workflow from image drafts to editable 10-second video outputs. It accepts text, image, and video inputs, then edits clips through conversation. Pricing: $0.10 per second of video output, matching Veo 3.1 Fast. Gemini Omni Flash currently generates 10-second clips and lacks API audio reference support. Google says the API accepts video references up to 3 seconds, but Gemini Omni Flash does not process them correctly yet.” Interactions API keeps session context, so users can stack 3 sequential edits.",
-      "published_at": "Tue Jun 30 17:01:33 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com/*/status (\"Nano Banana\" OR \"GPT Image\") prompt"
-      ],
-      "likes": 44,
-      "reposts": 10,
-      "replies": 6,
-      "views": 8023,
-      "score": 52.01
-    },
-    {
       "tweet_id": "2082064410596778046",
       "url": "https://x.com/Arzoo12sh/status/2082064410596778046",
       "author": "Arzoo12sh",
@@ -256,23 +121,8 @@
       "likes": 94,
       "reposts": 37,
       "replies": 33,
-      "views": 1386,
-      "score": 51.71
-    },
-    {
-      "tweet_id": "2081764856969957796",
-      "url": "https://x.com/animetrends/status/2081764856969957796",
-      "author": "animetrends",
-      "text": "EL FINAL ORIGINAL ERA UNA TRAGEDIA El creador de \"Ryuuou no Oshigoto!\", Shirow Shiratori, reveló que el plan original de la historia era que la heroína principal, Ginko Sora, muriera. Según el autor, el esquema inicial dictaba que Ginko fallecería trágicamente a causa de una enfermedad poco después de alcanzar su meta profesional. Sin embargo, la dolorosa pérdida de sus propios familiares en el mundo real lo dejó sin fuerzas emocionales para escribir una historia tan triste. Fue entonces que el ilustrador oficial intervino silenciosamente, creando portadas tan esperanzadoras que hicieron imposible seguir con la tragedia, obligando al autor a cambiar el guion y darles un final feliz. El arte salvó a la waifu.",
-      "published_at": "Mon Jul 27 15:33:13 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com/*/status (\"Veo\" OR \"Kling\" OR \"Sora\") prompt"
-      ],
-      "likes": 1046,
-      "reposts": 62,
-      "replies": 17,
-      "views": 34493,
-      "score": 51.48
+      "views": 1399,
+      "score": 51.72
     },
     {
       "tweet_id": "2081750398399050151",
@@ -290,96 +140,6 @@
       "score": 50.96
     },
     {
-      "tweet_id": "2071988366925521075",
-      "url": "https://x.com/googleaidevs/status/2071988366925521075",
-      "author": "googleaidevs",
-      "text": "We’re launching Nano Banana 2 Lite, our fastest most cost-efficient Gemini Image model yet, optimized for high-throughput developer pipelines. Alongside it, Gemini Omni Flash, our video generation and editing model is now available to developers. Both models are accessible today via @GoogleAIStudio and the Gemini API to help you scale your workflows 👇",
-      "published_at": "Tue Jun 30 16:04:57 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com/*/status (\"Nano Banana\" OR \"GPT Image\") prompt"
-      ],
-      "likes": 245,
-      "reposts": 47,
-      "replies": 25,
-      "views": 1087891,
-      "score": 50.95
-    },
-    {
-      "tweet_id": "2072011929485463635",
-      "url": "https://x.com/arena/status/2072011929485463635",
-      "author": "arena",
-      "text": "Gemini 3.1 Flash Lite Image (Nano Banana 2 Lite) has entered the Text-to-Image Arena. It ranks #5 overall. Google's latest Gemini-3.1-Flash-Lite-Image lands on the Pareto frontier: scoring 1251 at just $0.034/image. This is near flagship quality at a fraction of the price. The cost-to-quality curve just got a lot more interesting. Congrats to @GoogleDeepMind on the release!",
-      "published_at": "Tue Jun 30 17:38:34 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com/*/status (\"Nano Banana\" OR \"GPT Image\") prompt"
-      ],
-      "likes": 311,
-      "reposts": 22,
-      "replies": 11,
-      "views": 61638,
-      "score": 50.38
-    },
-    {
-      "tweet_id": "2074931525762592883",
-      "url": "https://x.com/googledevs/status/2074931525762592883",
-      "author": "googledevs",
-      "text": "Meet the Nano Banana family: built to solve your image pipeline constraints. 🍌 From lightning-fast drafting to state-of-the-art 4K generation, see how the next-gen image models stack up - swipe to find your perfect match! Start playing in Google AI Studio: https://goo.gle/googleaistudio",
-      "published_at": "Wed Jul 08 19:00:00 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com/*/status (\"Nano Banana\" OR \"GPT Image\") prompt"
-      ],
-      "likes": 200,
-      "reposts": 26,
-      "replies": 10,
-      "views": 30388,
-      "score": 49.15
-    },
-    {
-      "tweet_id": "2078489721605648840",
-      "url": "https://x.com/rezkhere/status/2078489721605648840",
-      "author": "rezkhere",
-      "text": "Fable this, SOL that... At the end of the day, which is actually better at video stuff? I put Fable 5 and GPT 5.6 SOL head to head with the same paper diorama video idea. Their job was to make the hero frame using Nano Banana Pro and generate the perfect Seedance 2.0 for each. For tooling, we used Arcads MCP. Head to head, I think Fable 5 did it better. Although the hook and particular frames 5.6 SOL put together are on another level. Overall verdict: Fable 5 is for consistency while 5.6 SOL is for unique, artistic frames.",
-      "published_at": "Sat Jul 18 14:39:00 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com/*/status (\"Nano Banana\" OR \"GPT Image\") prompt"
-      ],
-      "likes": 49,
-      "reposts": 15,
-      "replies": 9,
-      "views": 13173,
-      "score": 48.96
-    },
-    {
-      "tweet_id": "2079802758530789854",
-      "url": "https://x.com/genel_ai/status/2079802758530789854",
-      "author": "genel_ai",
-      "text": "アリババの最新画像生成AI「Qwen-Image-3.0」 日本人女性の比較 ・Qwen-Image-3.0 ・Seedream 5.0 Pro ・Nano Banana Pro ・ChatGPT Images 2.0 🍌やSeedreamよりはリアルな感じがしますが、やはりGPT Images 2.0が1番良さそうな印象👀 動画生成AI「Kling」でそれぞれ動かしてみた結果↓",
-      "published_at": "Wed Jul 22 05:36:33 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com/*/status (\"Nano Banana\" OR \"GPT Image\") prompt"
-      ],
-      "likes": 65,
-      "reposts": 11,
-      "replies": 1,
-      "views": 10901,
-      "score": 48.25
-    },
-    {
-      "tweet_id": "2074055274403672163",
-      "url": "https://x.com/shedntcare_/status/2074055274403672163",
-      "author": "shedntcare_",
-      "text": "🚨 BREAKING: Microsoft Research + Salesforce just revealed a flaw that affects every major AI model. They evaluated GPT-4.1, Gemini 2.5 Pro, Claude 3.7 Sonnet, o3, DeepSeek R1, Llama 4, and more across 200,000+ simulated conversations. The results: • Single-turn prompts: 90% performance • Multi-turn conversations: 65% performance The biggest issue isn't intelligence. It's reliability. Models: Lock onto early assumptions. Double down on incorrect answers. Lose context during longer conversations. Make more mistakes as chats get longer. Even reasoning models couldn't avoid it. The takeaway: if you want better outputs, provide as much context as possible in one prompt instead of spreading it across multiple messages. GIVEAWAY To celebrate this research, I'm giving away 10 AI Prompt Packs packed with my best prompts for ChatGPT, Claude, Gemini, and other LLMs. To enter: • Like this post • Repost it • Comment \"PROMPTS\" I'll randomly pick 10 winners in 48 hours. Link to the research is in the first comment.",
-      "published_at": "Mon Jul 06 08:58:06 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com \"AI prompt\""
-      ],
-      "likes": 66,
-      "reposts": 14,
-      "replies": 24,
-      "views": 8015,
-      "score": 47.79
-    },
-    {
       "tweet_id": "2081768654929072162",
       "url": "https://x.com/Neuron_404/status/2081768654929072162",
       "author": "Neuron_404",
@@ -393,141 +153,6 @@
       "replies": 13,
       "views": 3384,
       "score": 46.35
-    },
-    {
-      "tweet_id": "2075796444917956660",
-      "url": "https://x.com/rena_takeda/status/2075796444917956660",
-      "author": "rena_takeda",
-      "text": "sorato - 最終回 [Music Video] https://youtu.be/D2yjyOW6tjc?si=zJdDJl8bp9fn_bbl @YouTubeより",
-      "published_at": "Sat Jul 11 04:16:53 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com/*/status (\"Veo\" OR \"Kling\" OR \"Sora\") prompt"
-      ],
-      "likes": 496,
-      "reposts": 40,
-      "replies": 0,
-      "views": 33665,
-      "score": 46.21
-    },
-    {
-      "tweet_id": "2080312631416574373",
-      "url": "https://x.com/hila_chefer/status/2080312631416574373",
-      "author": "hila_chefer",
-      "text": "Beyond excited to finally share FLUX 3 with the world! 🚀 4 months ago, we released our research paper, Self-Flow, to the community. Seeing those core ideas come to life at scale inside FLUX 3 has been one of the most rewarding experiences of my career. FLUX 3 brings Image, Video, Audio, and Action-Prediction together into a single multi-modal model. And we are just getting started... Super grateful to be a part of this incredible team @bfl_ai!",
-      "published_at": "Thu Jul 23 15:22:36 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com/*/status (\"Midjourney\" OR \"Flux\") prompt"
-      ],
-      "likes": 310,
-      "reposts": 18,
-      "replies": 32,
-      "views": 25175,
-      "score": 45.98
-    },
-    {
-      "tweet_id": "2081483621349658684",
-      "url": "https://x.com/georgfranz/status/2081483621349658684",
-      "author": "georgfranz",
-      "text": "The newest AI models need fewer rules, clearer boundaries, and a very different prompt stack. Here is what I am changing after 100,000 prompts and 15 million model messages.",
-      "published_at": "Sun Jul 26 20:55:42 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com \"image prompt\" Midjourney"
-      ],
-      "likes": 256,
-      "reposts": 16,
-      "replies": 28,
-      "views": 694955,
-      "score": 44.04
-    },
-    {
-      "tweet_id": "2072033519745016224",
-      "url": "https://x.com/TechCrunch/status/2072033519745016224",
-      "author": "TechCrunch",
-      "text": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/?utm_source=dlvr.it&utm_medium=twitter",
-      "published_at": "Tue Jun 30 19:04:22 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com/*/status (\"Nano Banana\" OR \"GPT Image\") prompt"
-      ],
-      "likes": 49,
-      "reposts": 10,
-      "replies": 5,
-      "views": 20451,
-      "score": 42.92
-    },
-    {
-      "tweet_id": "2072257361067094177",
-      "url": "https://x.com/rugikkk/status/2072257361067094177",
-      "author": "rugikkk",
-      "text": "She makes $2k+ a month selling AI UGC that doesn’t exist. A woman applies mascara, blends blush, tries jackets - all generated in Arcads in under 10 minutes. One prompt. Node workflow. Seedance 2.0 stitches start and end frames. Hyper-realistic clips ready to post. Brands pay $60–$100 per asset. Run 30 a month and the money prints itself.",
-      "published_at": "Wed Jul 01 09:53:50 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com \"image prompt\" Midjourney"
-      ],
-      "likes": 66,
-      "reposts": 6,
-      "replies": 4,
-      "views": 10802,
-      "score": 42.67
-    },
-    {
-      "tweet_id": "2074579434783281660",
-      "url": "https://x.com/freesiavacadoo/status/2074579434783281660",
-      "author": "freesiavacadoo",
-      "text": "still can’t believe namine wasn’t in the game about searching through kairis memories for whereabouts about sora 😭😭 like come onnnnnn",
-      "published_at": "Tue Jul 07 19:40:55 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com/*/status (\"Veo\" OR \"Kling\" OR \"Sora\") prompt"
-      ],
-      "likes": 426,
-      "reposts": 18,
-      "replies": 11,
-      "views": 13043,
-      "score": 41.21
-    },
-    {
-      "tweet_id": "2073513859814416704",
-      "url": "https://x.com/Waratin2115/status/2073513859814416704",
-      "author": "Waratin2115",
-      "text": "𝐏’𝐍𝐚𝐦 𝐚𝐧𝐝 𝐋𝐚𝐝𝐚 𝐭𝐡𝐨𝐮𝐠𝐡𝐭𝐬 𝐨𝐧 𝐋𝐨𝐯𝐞 : 𝑷’𝑵𝒂𝒎 💧 : 𝑳𝒐𝒗𝒆 𝒊𝒔𝒏’𝒕 𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈 𝒏𝒐𝒏𝒔𝒆𝒏𝒔𝒆, 𝑭𝒂𝒊. 𝑰𝒕’𝒔 𝒕𝒉𝒆 𝒐𝒕𝒉𝒆𝒓 𝒘𝒂𝒚 𝒂𝒓𝒐𝒖𝒏𝒅. 𝑰 𝒕𝒉𝒊𝒏𝒌 𝒍𝒐𝒗𝒆 𝒎𝒂𝒌𝒆𝒔 𝒖𝒔 𝒔𝒆𝒆 𝒕𝒉𝒆 𝒕𝒓𝒖𝒆 𝒎𝒆𝒂𝒏𝒊𝒏𝒈 𝒊𝒏 𝒍𝒊𝒇𝒆 𝒂𝒏𝒅 𝒎𝒂𝒌𝒆𝒔 𝒖𝒔 𝒉𝒂𝒑𝒑𝒊𝒆𝒓 𝒕𝒉𝒂𝒏 𝒘𝒉𝒆𝒏 𝒂𝒍𝒍 𝒘𝒆 𝒅𝒊𝒅 𝒊𝒏 𝒍𝒊𝒇𝒆 𝒘𝒂𝒔 𝒘𝒐𝒓𝒌. 𝑻𝒓𝒖𝒔𝒕 𝒎𝒆. 𝑳𝒂𝒅𝒂 🌊 : 𝑨𝒔 𝒇𝒐𝒓 𝒎𝒆, 𝒂 𝒈𝒐𝒐𝒅 𝒍𝒐𝒗𝒆 𝒊𝒔 𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈 𝒕𝒉𝒂𝒕 𝒎𝒂𝒌𝒆𝒔 𝒚𝒐𝒖 𝒍𝒐𝒗𝒆 𝒚𝒐𝒖𝒓𝒔𝒆𝒍𝒇. 𝑰 𝒖𝒔𝒆𝒅 𝒕𝒐 𝒕𝒉𝒊𝒏𝒌 𝑰 𝒄𝒐𝒖𝒍𝒅 𝒍𝒊𝒗𝒆 𝒂𝒍𝒐𝒏𝒆 𝒂𝒏𝒅 𝒃𝒆 𝒐𝒏 𝒎𝒚 𝒐𝒘𝒏. 𝑩𝒖𝒕 𝒂𝒇𝒕𝒆𝒓 𝑰 𝒎𝒆𝒕 𝑷’𝑵𝒂𝒎, 𝑰’𝒗𝒆 𝒓𝒆𝒂𝒍𝒊𝒛𝒆𝒅 𝒕𝒉𝒂𝒕 𝒘𝒆 𝒅𝒐𝒏’𝒕 𝒂𝒍𝒘𝒂𝒚𝒔 𝒏𝒆𝒆𝒅 𝒕𝒐 𝒃𝒆 𝒔𝒕𝒓𝒐𝒏𝒈 𝒐𝒓 𝒈𝒐𝒐𝒅 𝒂𝒕 𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈. 𝑰𝒇 𝒕𝒉𝒆𝒓𝒆 𝒂𝒓𝒆 𝒕𝒊𝒎𝒆𝒔 𝒘𝒉𝒆𝒏 𝑰 𝒘𝒂𝒏𝒕 𝒕𝒐 𝒄𝒓𝒚 𝒐𝒓 𝒅𝒐𝒏’𝒕 𝒘𝒂𝒏𝒕 𝒕𝒐 𝒂𝒄𝒕 𝒔𝒕𝒓𝒐𝒏𝒈, 𝑷’𝑵𝒂𝒎 𝒘𝒊𝒍𝒍 𝒂𝒍𝒘𝒂𝒚𝒔 𝒃𝒆 𝒕𝒉𝒆𝒓𝒆 𝒕𝒐 𝒔𝒖𝒑𝒑𝒐𝒓𝒕 𝒎𝒆. THE AIR FINAL EPISODE #เสน่หาวาโยตอนจบ #อิงล็อต #englot",
-      "published_at": "Sat Jul 04 21:06:42 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com/*/status (\"Veo\" OR \"Kling\" OR \"Sora\") prompt"
-      ],
-      "likes": 160,
-      "reposts": 34,
-      "replies": 1,
-      "views": 2990,
-      "score": 40.85
-    },
-    {
-      "tweet_id": "2079292774109810786",
-      "url": "https://x.com/sibyog13/status/2079292774109810786",
-      "author": "sibyog13",
-      "text": "Openship : Une plateforme open source pour construire, déployer et exploiter des applications Vous cherchez un moyen de gérer efficacement vos applications ? Openship est une solution open source qui vous permet de remplacer les outils de déploiement, les services gérés et les flux de travail d'infrastructure par une seule plateforme. Voici ce que vous pouvez attendre d'Openship : * Serveur de messagerie : Fonctionne sur votre propre VPS avec des domaines illimités et des boîtes aux lettres illimitées. Inclut un webmail moderne et une forte délivrabilité des emails. * Déploiement : Déployez n'importe quelle pile avec des déploiements basés sur Git et des déploiements sans interruption. Openship offre également la possibilité de faire des retours en arrière en un clic et de déployer sur différents environnements. * Services : Provisionnez les services dont vos applications ont besoin en un seul clic, tels que Supabase, PostgreSQL, MySQL, MariaDB, MongoDB, Redis et bien plus encore. Openship offre également des fonctionnalités avancées telles que la gestion des secrets, l'automatisation des sauvegardes et une surveillance en temps réel. La plateforme est également conçue pour faciliter le travail des développeurs avec un tableau de bord web, une application de bureau native et une CLI. Quels sont les outils que vous utilisez pour gérer vos applications ? Avez-vous déjà essayé Openship ou d'autres plateformes open source similaires ? Partagez votre expérience ! https://github.com/oblien/openship",
-      "published_at": "Mon Jul 20 19:50:03 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com/*/status (\"Midjourney\" OR \"Flux\") prompt"
-      ],
-      "likes": 43,
-      "reposts": 12,
-      "replies": 3,
-      "views": 1999,
-      "score": 40.71
-    },
-    {
-      "tweet_id": "2075133710891167800",
-      "url": "https://x.com/Radh1ka_/status/2075133710891167800",
-      "author": "Radh1ka_",
-      "text": "Stop relying on random prompts. This workflow breaks AI influencer dance videos into a repeatable production pipeline—from idea to final edit—with prompts included. Worth bookmarking. 💃🤖",
-      "published_at": "Thu Jul 09 08:23:25 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com \"video prompt\" AI"
-      ],
-      "likes": 16,
-      "reposts": 14,
-      "replies": 106,
-      "views": 51259,
-      "score": 40.69
     },
     {
       "tweet_id": "2077526636162109842",
@@ -575,66 +200,6 @@
       "score": 38.51
     },
     {
-      "tweet_id": "2077046449054126223",
-      "url": "https://x.com/matchaman11/status/2077046449054126223",
-      "author": "matchaman11",
-      "text": "🚨 JUST IN: Seedance 2.5 has been delayed. The official release is no longer happening on the original date. 📅 New release date: July 20. The countdown starts again. Follow the GitHub project below for Seedance 2.5 updates👇",
-      "published_at": "Tue Jul 14 15:03:57 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com/*/status (\"Veo\" OR \"Kling\" OR \"Sora\") prompt"
-      ],
-      "likes": 32,
-      "reposts": 2,
-      "replies": 7,
-      "views": 4205,
-      "score": 37.51
-    },
-    {
-      "tweet_id": "2080332041602613592",
-      "url": "https://x.com/mark_k/status/2080332041602613592",
-      "author": "mark_k",
-      "text": "Flux 3 is here. Images, video, reasoning and more. One multimodal AI that does everything!",
-      "published_at": "Thu Jul 23 16:39:44 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com/*/status (\"Midjourney\" OR \"Flux\") prompt"
-      ],
-      "likes": 157,
-      "reposts": 9,
-      "replies": 14,
-      "views": 9583,
-      "score": 37.31
-    },
-    {
-      "tweet_id": "2075819542673289681",
-      "url": "https://x.com/nna_nna_nnaaai/status/2075819542673289681",
-      "author": "nna_nna_nnaaai",
-      "text": "@sora_ama_pray https://www.setandset.com/archives/lantis2019day1.html",
-      "published_at": "Sat Jul 11 05:48:40 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com/*/status (\"Veo\" OR \"Kling\" OR \"Sora\") prompt"
-      ],
-      "likes": 90,
-      "reposts": 9,
-      "replies": 0,
-      "views": 107037,
-      "score": 36.85
-    },
-    {
-      "tweet_id": "2072055069718306829",
-      "url": "https://x.com/evernote/status/2072055069718306829",
-      "author": "evernote",
-      "text": "🎯 Introducing AI Prompts If you find yourself rewriting the same requests to AI over and over, save them as AI Prompts instead. Start with Evernote's Prompt Library for inspiration, then create your own reusable prompts that understand your context. Find AI Prompts when starting a new note, in the toolbar when selecting text, or from an audio recording. What AI Prompt would save you the most time? We'd love to hear your ideas in the comments. 👇",
-      "published_at": "Tue Jun 30 20:30:00 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com \"AI prompt\""
-      ],
-      "likes": 54,
-      "reposts": 3,
-      "replies": 11,
-      "views": 9681,
-      "score": 36.44
-    },
-    {
       "tweet_id": "2076939765530698132",
       "url": "https://x.com/michaelrabone/status/2076939765530698132",
       "author": "michaelrabone",
@@ -648,36 +213,6 @@
       "replies": 2,
       "views": 7396,
       "score": 34.15
-    },
-    {
-      "tweet_id": "2075897824013844917",
-      "url": "https://x.com/necrosamus/status/2075897824013844917",
-      "author": "necrosamus",
-      "text": "POV: your camera roll if you were dating sora",
-      "published_at": "Sat Jul 11 10:59:44 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com/*/status (\"Veo\" OR \"Kling\" OR \"Sora\") prompt"
-      ],
-      "likes": 93,
-      "reposts": 6,
-      "replies": 5,
-      "views": 796,
-      "score": 33.3
-    },
-    {
-      "tweet_id": "2077298369303580819",
-      "url": "https://x.com/FranceCryptos/status/2077298369303580819",
-      "author": "FranceCryptos",
-      "text": "🚨 Stripe et le fonds Advent International proposent de racheter PayPal pour plus de 53 milliards de dollars, selon Reuters. Stripe, le plus gros acteur du paiement encore non coté en Bourse, s'allie à un grand fonds d'investissement pour absorber la marque que des centaines de millions de personnes utilisent pour payer en ligne. L'offre valorise PayPal à plus de 53 milliards de dollars. Pour l'utilisateur comme pour l'investisseur, c'est un signal de consolidation massive dans les paiements. Ces mêmes acteurs poussent aussi les stablecoins et les rails blockchain: PayPal a déjà lancé le sien, Stripe s'est offert une start-up de stablecoins. Le rachat placerait donc une immense part des flux d'argent en ligne, classiques comme crypto, dans très peu de mains.",
-      "published_at": "Wed Jul 15 07:45:00 +0000 2026",
-      "discovered_by": [
-        "web:site:x.com/*/status (\"Midjourney\" OR \"Flux\") prompt"
-      ],
-      "likes": 7,
-      "reposts": 1,
-      "replies": 0,
-      "views": 2023,
-      "score": 30.93
     }
   ]
 }
