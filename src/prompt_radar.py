@@ -431,6 +431,12 @@ def markdown_escape(value: str) -> str:
     return value.replace("|", "\\|").replace("\n", " ").strip()
 
 
+def markdown_code_block(value: str) -> list[str]:
+    longest_run = max((len(run) for run in re.findall(r"~+", value)), default=0)
+    fence = "~" * max(3, longest_run + 1)
+    return [f"{fence}text", value.strip(), fence]
+
+
 def write_outputs(items: list[Candidate], run_date: date, seen_path: Path) -> None:
     archive_dir = ROOT / "archive" / f"{run_date:%Y}" / f"{run_date:%m}"
     archive_dir.mkdir(parents=True, exist_ok=True)
@@ -457,29 +463,37 @@ def write_outputs(items: list[Candidate], run_date: date, seen_path: Path) -> No
     if not items:
         lines.append("Eşik değerini geçen yeni bir gönderi bulunamadı.")
     else:
-        lines.extend(
-            [
-                "| # | Puan | Yazar | Etkileşim | Prompt / paylaşım |",
-                "|---:|---:|---|---:|---|---|",
-            ]
-        )
-        lines[-2] = "| # | Görsel | Puan | Yazar | Etkileşim | Prompt / paylaşım |"
         for index, item in enumerate(items, 1):
             engagement = (
                 f"❤ {item.likes} · 🔁 {item.reposts} · 👁 {item.views}"
             )
-            excerpt = markdown_escape(item.text)
-            if len(excerpt) > 320:
-                excerpt = excerpt[:317].rstrip() + "…"
             author = f"@{markdown_escape(item.author)}" if item.author else "—"
-            preview = (
-                f'<img src="{item.preview_path}" width="160" alt="Prompt görseli">'
-                if item.preview_path
-                else "—"
+            lines.extend(
+                [
+                    f"## {index}. {author}",
+                    "",
+                ]
             )
-            lines.append(
-                f"| {index} | {preview} | {item.score:.2f} | {author} | {engagement} | "
-                f"[{excerpt or 'Gönderiyi aç'}]({item.url}) |"
+            if item.preview_path:
+                lines.extend(
+                    [
+                        f'<img src="{item.preview_path}" width="420" alt="Prompt görseli">',
+                        "",
+                    ]
+                )
+            lines.extend(
+                [
+                    f"**Puan:** {item.score:.2f} &nbsp; **Etkileşim:** {engagement}",
+                    "",
+                    "**Tam prompt:**",
+                    "",
+                    *markdown_code_block(item.text or "Prompt metni alınamadı."),
+                    "",
+                    f"[Kaynak paylaşımı X'te aç ↗]({item.url})",
+                    "",
+                    "---",
+                    "",
+                ]
             )
     lines.extend(
         [
