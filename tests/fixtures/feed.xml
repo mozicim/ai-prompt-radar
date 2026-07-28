@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Fixture</title>
+    <item>
+      <title>AI video prompt: A cinematic golden-hour city scene, camera: slow dolly-in, photorealistic, ultra-detailed — 12K likes 2K reposts</title>
+      <link>https://x.com/promptmaker/status/1234567890123456789</link>
+      <description>Use this prompt for your next Veo video.</description>
+      <pubDate>Tue, 28 Jul 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ordinary short news item</title>
+      <link>https://example.com/news/1</link>
+      <description>No social post here.</description>
+      <pubDate>Tue, 28 Jul 2026 08:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
