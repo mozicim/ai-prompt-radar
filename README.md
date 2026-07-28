@@ -6,8 +6,8 @@ amaçlayan otomasyon.
 
 ## Nasıl çalışır?
 
-1. `config/queries.txt` içindeki Türkçe ve İngilizce sorguları açık RSS arama
-   sonuçlarında tarar.
+1. `config/queries.txt` içindeki Türkçe ve İngilizce sorguları anahtarsız çoklu
+   web araması ve açık RSS sonuçlarında tarar.
 2. Bulunan `x.com/.../status/...` bağlantılarını tekilleştirir.
 3. Erişilebilen gönderileri anahtarsız herkese açık embed uç noktasıyla
    zenginleştirir.
@@ -23,9 +23,10 @@ amaçlayan otomasyon.
 
 ## Elle çalıştırma
 
-Python 3.11 veya daha yeni bir sürüm yeterlidir; harici paket gerekmez.
+Python 3.11 veya daha yeni bir sürüm gerekir.
 
 ```bash
+python -m pip install -r requirements.txt
 python -m src.prompt_radar
 ```
 
