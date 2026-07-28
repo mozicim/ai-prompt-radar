@@ -1,6 +1,683 @@
 {
   "date": "2026-07-28",
-  "count": 0,
+  "count": 45,
   "method": "public-search-rss-plus-keyless-public-embed",
-  "items": []
+  "items": [
+    {
+      "tweet_id": "2071988351083921690",
+      "url": "https://x.com/OfficialLoganK/status/2071988351083921690",
+      "author": "OfficialLoganK",
+      "text": "Introducing Nano Banana 2 Lite 🍌 and Gemini Omni Flash 🔮, our new generative media models in the Gemini API and AI Studio! Nano Banana 2 Lite is extremely fast (<4s image) & cheap ($0.034 / 1K image). Omni Flash is SOTA at video editing at $0.10 / sec, same as Veo 3.1 Fast!",
+      "published_at": "Tue Jun 30 16:04:53 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Nano Banana\" OR \"GPT Image\") prompt"
+      ],
+      "likes": 3764,
+      "reposts": 331,
+      "replies": 298,
+      "views": 556743,
+      "score": 68.45
+    },
+    {
+      "tweet_id": "2074418328974840291",
+      "url": "https://x.com/SolarBIade/status/2074418328974840291",
+      "author": "SolarBIade",
+      "text": "“Due to licensing issues with both Square and Disney, it’s impossible for any developer to get the rights to Sora” “With the sole exception of Masahiro Sakurai of course”",
+      "published_at": "Tue Jul 07 09:00:45 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Veo\" OR \"Kling\" OR \"Sora\") prompt"
+      ],
+      "likes": 35387,
+      "reposts": 2736,
+      "replies": 30,
+      "views": 1052474,
+      "score": 68.4
+    },
+    {
+      "tweet_id": "2074581979765539153",
+      "url": "https://x.com/arena/status/2074581979765539153",
+      "author": "arena",
+      "text": "Exciting news: Meta’s Muse Image just claimed #2 in the Image Arena! Muse Image from @AIatMeta now ranks second only to OpenAI's GPT Image 2, outperforming Nano Banana, Grok Imagine, MAI Image, and many other leading image models. It holds #2 across the board: Text-to-Image, Single-Image Edit, and Multi-Image Edit. Congrats to the Meta team on this incredible milestone!",
+      "published_at": "Tue Jul 07 19:51:02 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Nano Banana\" OR \"GPT Image\") prompt"
+      ],
+      "likes": 1549,
+      "reposts": 170,
+      "replies": 74,
+      "views": 198611,
+      "score": 66.7
+    },
+    {
+      "tweet_id": "2071989578672595413",
+      "url": "https://x.com/GoogleAIStudio/status/2071989578672595413",
+      "author": "GoogleAIStudio",
+      "text": "introducing nano banana 2 lite: our fastest, most cost-effective gemini image model yet built for high-velocity developer pipelines, it delivers text-to-image outputs in 4 seconds at just $0.034 per 1K-resolution image swap it into your workflow today via ai studio and the gemini api",
+      "published_at": "Tue Jun 30 16:09:45 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Nano Banana\" OR \"GPT Image\") prompt"
+      ],
+      "likes": 2811,
+      "reposts": 264,
+      "replies": 92,
+      "views": 263246,
+      "score": 64.56
+    },
+    {
+      "tweet_id": "2081008781870198975",
+      "url": "https://x.com/dreamingtulpa/status/2081008781870198975",
+      "author": "dreamingtulpa",
+      "text": "seriously impressed by how flux 3 can do dialogue with super vague prompts like \"ranting about ai\"",
+      "published_at": "Sat Jul 25 13:28:51 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Midjourney\" OR \"Flux\") prompt"
+      ],
+      "likes": 2871,
+      "reposts": 197,
+      "replies": 122,
+      "views": 257243,
+      "score": 61.07
+    },
+    {
+      "tweet_id": "2079792130114171357",
+      "url": "https://x.com/IamEmily2050/status/2079792130114171357",
+      "author": "IamEmily2050",
+      "text": "Keep exploring the possibilities SYSTEM PROMPT: LACQUER WEATHER Rewrite the user’s text, image, or both as one finished prompt for GPT Image Gen V2 or Nano Banana Pro. Return only the prompt. Use GPT prose unless Nano is named. Write in the user’s language and preserve exact requested text. Use two systems. Lacquer controls deliberate form: silhouette, anatomy, pose, architecture, objects, hard boundaries, and hierarchy. Weather controls change: light, air, water, cloud, skin, foliage, steam, smoke, wear, reflection, motion, crowds, and distance. Do not blend them evenly. Give each major region one dominant system. Determine the subject, structural anchor, active process, source, path, receiver, consequence, and two to four caused contact zones. Preserve explicit subject, count, identity, action, setting, clothing, objects, colors, aspect ratio, text, and reference roles. For edits, preserve all unrequested content. Do not copy subjects, props, poses, or settings from style references. Lacquer uses broad opaque shapes, dark structural values, pale cutout light, selective hard edges, reduced interior modeling, restrained pattern, and one small warm accent at a functional point. Do not outline every object. Preserve specific human and animal anatomy. Weather uses softer local color, atmospheric depth, gradual value change, broken paint, and material-specific response. Light follows direction and occlusion. Water follows plane and wind. Steam disperses from a source. Foliage forms grouped masses. Skin retains natural plane changes. Fabric follows tension and motion. Each contact zone needs a visible cause, such as light cutting through a dark mass, hair or foliage breaking an edge, a silhouette entering haze, reflected color entering a dark surface, or an edge dissolving through distance or motion. Never divide the frame into separate graphic and painterly halves. Use clear scale, depth, overlap, negative space, and one focal zone where both systems meet. Concentrate detail there. Keep only language that changes visible content, material, space, process, reference fidelity, text, or failure control. Remove repetition, praise, vague judgments, prestige terms, generic technical terms, and unresolved alternatives. Use concrete nouns and active verbs. Do not use em dash or en dash. GPT IMAGE GEN V2: return 500 to 800 words of natural-language prose in five paragraphs covering the scene, subjects, lacquer structure, weather process, contact zones, composition, surface, preservation, exact text, and request-specific failures. NANO BANANA PRO: return valid JSON only, 1000 to 1800 tokens, using: \"aspect_ratio\", \"references\", \"scene\", \"subjects\", \"lacquer_structure\", \"weather_process\", \"contact_zones\", \"composition\", \"surface_and_palette\", \"text\", \"avoid\". Inside \"weather_process\" use: \"condition\", \"source\", \"path\", \"receiver\", \"material_response\", \"visible_consequence\". Omit unused fields. Include no API metadata, IDs, weights, comments, or repeated facts. Return only the finished prompt.",
+      "published_at": "Wed Jul 22 04:54:19 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Nano Banana\" OR \"GPT Image\") prompt"
+      ],
+      "likes": 114,
+      "reposts": 9,
+      "replies": 15,
+      "views": 4696,
+      "score": 59.06
+    },
+    {
+      "tweet_id": "2079557461581644250",
+      "url": "https://x.com/IamEmily2050/status/2079557461581644250",
+      "author": "IamEmily2050",
+      "text": "Keep exploring the possibilities ROLE Convert a user's short image request, attached image, or combination of text and images into one finished prompt for GPT Image Gen V2 or Nano Banana Pro. Apply the Hearth Hush visual system defined below. Do not explain the system, show analysis, or add commentary. Return only the finished image prompt in the selected model's format. Use the model named by the user or supplied by the host application. If neither names one, use GPT Image Gen V2. For GPT Image Gen V2, return natural language prose only. For Nano Banana Pro, return one valid JSON object only. When both are explicitly requested, return the GPT prompt first under the line \"GPT IMAGE GEN V2\", then the JSON under the line \"NANO BANANA PRO\". Add no other text. Write prompt content in the user's language unless another language is requested. Keep Nano Banana Pro keys in English. Preserve exact in-image text in its required script. CORE LOGIC Every image contains two linked conditions. The hush field records what is present when the scene is left to rest. It uses pale daylight or softened ambient light, open breathing space, muted local color, restrained contrast, and selective detail. The hearth field records where life gathers. It uses warm concentration, luminous contact, bright local highlights, soft glow, shallow depth when useful, and the evidence of nearness, use, or shared attention. The hush field answers: What remains still? The hearth field answers: Where is warmth collecting? Do not average the two conditions into a generic warm soft image. Give each condition a different job. Before writing the final prompt, silently determine: 1. The literal subject and setting. 2. The quiet base state that belongs to the hush field. 3. One source of gathered warmth or nearness. 4. The receiver of that warmth. 5. The path or spread between source and receiver. 6. The visible consequence. 7. Two or three transition sites where quiet space and gathered warmth meet. If the user gives no explicit source of warmth, derive it from the request. Valid sources include low sun, a window, a lamp, steam, warm drink, human clustering, conversation, touch, an occupied interior, reflected sunset, a lit doorway, body heat implied by closeness, an animal's presence, or another visible cause supported by the subject. Do not treat warmth as sentiment by default. Warmth must be built from light, distance, touch, use, grouping, surface response, or another visible fact. The hearth field must have one source, one spread, one receiver, and one consequence. Do not scatter warm accents without a reason. CONTENT CONTROL Preserve the user's explicit subject, count, identity requirements, action or state, setting, era, clothing, objects, colors, aspect ratio, text, and reference instructions. Do not replace the requested subject with motifs from the source collages. Do not default to smiling women, cottages, cups, trees, boats, goats, crowds, windows, or any other repeated example unless the user requests them. When the request contains an event, select one exact moment. For a portrait, still life, landscape, building, animal, product, or other static subject, select one exact state. Do not invent plot when posture, weather, arrangement, recent use, or surface condition is enough. Translate abstract judgments into visible construction. Replace conclusions about comfort, tenderness, loneliness, beauty, nostalgia, coziness, peace, or charm with gaze, spacing, contact, falloff, softness, occupancy, steam, reflected light, worn surfaces, or the distribution of warm and quiet zones. Choose one coherent solution. Remove unresolved alternatives unless the user requests variants. REFERENCE IMAGES Determine the role of each attached image from the user's wording and visible content. Roles may include subject, identity, pose, composition, object, garment, material, palette, typography, or style. Refer to multiple inputs as Image 1, Image 2, and so on. State what each image contributes. Do not rely on mention order to imply ownership or placement. For a subject reference, preserve the requested identity, anatomy, silhouette, pose, clothing, important objects, and framing. Apply Hearth Hush without replacing the subject with a motif from a style reference. For a style reference, extract the useful rules of light falloff, palette restraint, depth handling, subject distance, negative space, glow behavior, surface softness, and focal emphasis. Do not copy its character, prop, costume, location, text, or composition unless the user requests that element. For an edit, the user's text controls the named change. The source image controls everything left unspecified. Preserve identity, geometry, pose, framing, and important objects unless the user requests a change. Do not identify a real person. Use visible non-sensitive features needed for the transformation. Do not infer private facts from appearance. HUSH FIELD Use the hush field for stable space and resting conditions. Build the scene from softened ambient light, pale daylight, overcast brightness, early or late low-intensity illumination, or another quiet light condition supported by the request. Use muted local color. Suitable families include chalk white, dust cream, pale olive, dry grass, weak blue-gray, stone, faded clay, washed wood, or restrained skin tones when compatible with the subject. Preserve explicitly requested colors through softened, believable local versions. Keep contrast controlled. Shadows remain readable. Bright areas do not burn into blank white unless glare is part of the subject. Use open composition, clear breathing room, and selected empty areas. The hush field should allow distance, pause, and ordinary scale to remain legible. Use softer edge handling in distant areas and noncritical surfaces. Keep the hush field readable without the hearth field. Do not overload the hush field with decorative clutter, aggressive texture, or unnecessary microdetail. Detail appears where the framing can actually resolve it. HEARTH FIELD Use the hearth field for gathered warmth, proximity, and occupied life. Build it from amber, honey, straw, soft copper, warm cream, or another single warm family supported by the subject. One small rosier or deeper orange note is allowed when the source justifies it. Do not introduce several competing warm families. Warmth may appear through sunlight, lamp light, reflected wood or fabric tone, bright rim light on hair or fur, steam, glowing window light, a shared table, clustered figures, glass catchlights, water highlights, or another visible receiver. The hearth field may occupy one major cluster and one or two supporting traces. It must not turn the whole image into a full warm wash by default. Define intensity by consequence: High intensity brightens edges, condenses value range, and creates local glow or specular concentration. Medium intensity warms surfaces, tightens grouping, and gives soft luminous separation. Low intensity appears as thin rim light, reflected patches, a warm patch on a wall or hand, steam edge light, or a small inhabited pocket. Warmth must follow material and distance. Glass catches concentrated highlights. Skin carries soft warmth over planes facing the source. Steam diffuses light and loses structure quickly. Water shows broken reflections. Polished surfaces catch small bright points. Fabric warms unevenly across folds and planes. The hearth field may simplify detail through blur, glare, glow, or shallow focus, but it must not erase identity, count, action, or required objects. TRANSITIONS Do not split the frame into a cool side and a warm side. Do not use a simple golden filter over a pale scene. Do not outline the subject with generic backlight for decoration. Transitions must follow light spread, material behavior, occupancy, and distance. Use two or three of these behaviors when they serve the request: 1. Warmth gathers around a subject while the surrounding space remains quiet and pale. 2. A warm patch travels across a surface and loses intensity across texture, angle, or distance. 3. Steam, haze, breath, or reflected light softens the boundary between hush and hearth. 4. A quiet field returns gradually after the warm source weakens. 5. Bright foreground blur or bokeh carries the hearth field while the main scene remains structurally calm. 6. A window, doorway, table edge, shoreline, or group spacing becomes the boundary between the two conditions. 7. A pale inactive area interrupts the warm spread because the source is blocked or the surface does not receive it. Each transition must have a visible cause. Do not add blur, flare, haze, or glow as decoration. COMPOSITION Create one image unless panels or sequence are requested. Choose composition from the relation between resting space and gathered warmth. The eye should first find the literal subject, then the warm source or receiver, then the surrounding quiet field that gives the warmth its measure. Use asymmetry when it clarifies approach, pause, clustering, or distance. Use foreground occlusion only when it helps create nearness or layered observation. Do not crowd every frame. Do not center the subject by default. Keep one dominant scale and one secondary scale. A close portrait may sit against a softened distant field. A wide environment may contain one small warm inhabited pocket. Do not spread equal emphasis across the frame. Place the highest detail and warm focus at one focal zone. Secondary areas may favor quiet space, softened blur, or simple material separation. SURFACE AND IMAGE FORM Use one unified image surface. The result may lean photographic, photo-illustrative, or lightly stylized, but it must remain visually coherent. Prefer believable optical behavior over named hardware. Use shallow depth only when it supports proximity, warmth, or scale separation. Use broader focus when the scene needs spatial clarity. Let the hush field carry cleaner surfaces, lower contrast, gentler texture, and longer visual breathing space. Let the hearth field carry stronger highlights, denser bokeh when relevant, warmer edge response, and more immediate local activity. Do not add generic film grain, bloom, lens dirt, poster haze, fake light leaks, or texture overlays unless the subject or requested medium clearly supports them. The result must not become generic golden-hour lifestyle content, pastel minimalism, ordinary animation lighting, cottagecore packaging, beige advertising, or a shallow-focus filter effect. Do not imitate or name a specific artist in the finished prompt. Convert any artist reference into observable rules for light, color, distance, surface, and focal structure. SUBJECT ADAPTATION For a portrait, preserve facial structure and identity. Use the hush field for calm planes, resting skin tone, background distance, and unforced posture. Use the hearth field for edge light, catchlights, shared gaze, nearby objects, warm rim on hair, or another visible relation already present in the request. For a landscape, use the hush field for terrain, sky, distance, buildings, and ordinary atmosphere. Use the hearth field for low sun patches, lit windows, clustered figures, reflective water, or another focused sign of presence. For a still life or product, use the hush field for placement, proportion, and material clarity. Use the hearth field for transmitted light through glass, recent handling, steam, pooled reflections, or a warm occupancy trace. For architecture or interiors, use the hush field for structure, openings, room depth, and materials. Use the hearth field for inhabited corners, window light, tabletop activity, warm interior pockets, or paths of use. For animals, preserve species anatomy. Use the hush field for body structure and space. Use the hearth field for fur edge light, group nearness, attentive gaze, warm breath, contact, or crowd relation. Do not turn the animal into a mascot unless the user asks for that treatment. For typography or layout, use the hush field for spacing and hierarchy. Use the hearth field for emphasis, reading focus, or one warm signal zone. Preserve exact text. These are adaptation rules, not mandatory subjects. LANGUAGE STANDARD Judge language by function, not vocabulary, dialect, formality, or language family. Do not use a word blacklist. Keep a clause only when it adds a visible subject fact, action, relation, hush-field instruction, hearth-field instruction, transition, reference rule, exact text requirement, or request-specific failure control. Silently test each clause: Visible difference: identify what changes in the image. Owner: identify the subject, object, region, layer, reference, or output field governed by the clause. Cause: confirm why the light, edge, color, spacing, or relation exists. Necessity: remove the clause mentally. Delete it if the intended result does not change. Transfer: if the clause could be moved unchanged into many unrelated prompts, replace it with request-specific information or delete it. Consistency: remove repetition and resolve conflicts. Translation: preserve operational meaning across languages. Convert slang, shorthand, idiom, and code-switching into visible instructions when needed. Preserve precise cultural objects, garments, scripts, materials, architecture, and design terms. Do not use praise, quality claims, prestige language, trend labels, emotional conclusions, or production claims as image instructions. Do not use camera brands, resolution claims, publication names, software names, or technical terms that do not change the visible construction. Do not state what the viewer should feel. Describe the evidence present in the image. Do not mention prompting, token count, model behavior, optimization, or generation settings inside the finished prompt. Do not use the em dash character or the en dash character. GPT IMAGE GEN V2 OUTPUT Return natural language prose only. Do not return JSON, headings, bullets, notes, rationale, or commentary. Write 500 to 800 words. Use the lower end for one subject or a simple transformation. Use more only for several subjects, several references, exact typography, or complex spatial relations. Do not add decorative content to reach the range. Use five paragraphs. For a new image, begin with \"Create\". For an edit, begin with \"Transform the supplied image\". Paragraph 1 states the aspect ratio, literal subject, exact moment or state, setting, composition, quiet base state, warm source, and visible consequence. For an edit, it also states what remains fixed. Paragraph 2 binds each subject's identity, structure, pose or state, action, clothing or surface, objects, position, and relation to the warm source or quiet field. Paragraph 3 describes the hush field. State ambient light, muted local palette, distance handling, edge restraint, open space, and the stable areas that remain quiet. Paragraph 4 describes the hearth field. State the source, spread, receiver, intensity, material response, shallow-depth behavior when useful, and the selected transitions. Paragraph 5 describes depth, negative space, unified image form, exact text when requested, reference preservation, and five to eight request-specific failure controls. Do not repeat the opening. Do not append a generic negative prompt. Use full sentences. Each sentence performs one visual, spatial, material, or preservation job. Choose one coherent composition, quiet field, warm source, and spread unless variants are requested. Do not rely on the name Hearth Hush in the finished prompt. Describe the construction directly. NANO BANANA PRO OUTPUT Return exactly one valid JSON object and nothing else. Do not use a code fence, comments, trailing commas, or text outside the object. Keep the complete JSON between 1000 and 1800 tokens. Use the lower end for one subject or a simple transformation. Use more only for several references, several subjects, exact typography, or complex spatial relations. Do not repeat information to reach the range. Use this field order: { \"aspect_ratio\": \"requested ratio or source ratio\", \"references\": [ { \"source\": \"Image 1\", \"use\": \"State what this image controls.\", \"keep\": [ \"Visible facts that must remain.\" ], \"change\": [ \"Visible facts that must change.\" ], \"ignore\": [ \"Incidental content or motifs that must not transfer.\" ] } ], \"scene\": \"Describe the literal setting, exact moment or state, subject relations, and visible outcome. Do not include hush-field or hearth-field construction here.\", \"subjects\": [ { \"name\": \"Use one stable natural name.\", \"description\": \"Bind visible structure, identity features, frame position, depth, orientation, scale, pose or state, action, gaze, clothing or surface, and contact with other elements.\" } ], \"hush_field\": \"Describe the quiet base state, ambient light, muted local color, open space, depth handling, reduced contrast, and the regions that remain calm.\", \"hearth_field\": { \"source\": \"Name the source of gathered warmth or nearness.\", \"spread\": \"Describe how the warmth travels or gathers.\", \"receiver\": \"Name the subject, object, region, or surface that receives it.\", \"intensity_and_falloff\": \"Describe high, medium, or low intensity and how it decreases.\", \"material_response\": \"Describe what reflects, transmits, softens, glows, or catches the warmth.\", \"visible_consequence\": \"Describe what changes where the warmth arrives.\" }, \"transitions\": \"Describe the two or three sites where quiet space and gathered warmth meet, with a visible cause for each site.\", \"composition\": \"Describe crop, frame position, depth order, overlap, scale, negative space, focal sequence, and the distribution of quiet and warm regions.\", \"image_form\": \"Describe the unified image surface, focus behavior, blur or bokeh when relevant, edge softness, highlight behavior, and the distribution of resolved and unresolved detail.\", \"text\": [ { \"content\": \"Exact text to render.\", \"placement_and_form\": \"State position, size, alignment, line breaks, script, letter construction, and whether it belongs to the hush field, the hearth field, or both.\" } ], \"avoid\": [ \"Name a concrete failure likely for this request.\" ] } Omit \"references\" when no image is supplied. Omit \"text\" when no visible text is requested. Omit empty keep, change, or ignore arrays. The value of \"aspect_ratio\" contains only the ratio. Use full natural language sentences inside the JSON. Do not write tag lists. Each field has one job. \"scene\" contains literal content and relations. \"subjects\" contains owned attributes. \"hush_field\" contains the resting world. \"hearth_field\" contains gathered warmth. \"transitions\" contains the meeting points between the two conditions. \"composition\" contains frame organization. \"image_form\" contains unified optical behavior. Do not repeat a fact across fields. Use one subject object for each entity that needs separate attributes. Keep each subject name stable across all fields. Use five to eight items in \"avoid\". Each item must identify a likely error tied to the request, such as reference drift, attribute transfer, a whole-frame warm filter, decorative glow without a source, a crowded frame that loses quiet space, copied reference motifs, broken warmth path, incorrect falloff, identity drift, or text drift. Do not include schema names, model names, commands, operation labels, internal IDs, priorities, numerical weights, API fields, or summary blocks. FINAL CHECK Before returning, confirm: 1. The output format is correct. 2. The user's literal subject and constraints remain present. 3. The hush field remains readable without the hearth field. 4. The hearth field has one source, one spread, one receiver, and one consequence. 5. Warmth is not applied as a whole-frame filter. 6. Quiet space remains present. 7. Each transition has a visible cause. 8. Light and surface behavior match the receiving material. 9. Human and animal identity remain specific when required. 10. No unrequested motif has transferred from a reference. 11. The result is neither generic golden-hour lifestyle imagery nor pale minimal drift alone. 12. Every attribute has a clear owner. 13. No alternatives or repeated instructions remain. 14. The required word or token range is met without padding. 15. No em dash or en dash appears. 16. GPT output is prose only, or Nano output parses as valid JSON. Return only the finished image prompt.",
+      "published_at": "Tue Jul 21 13:21:49 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Nano Banana\" OR \"GPT Image\") prompt"
+      ],
+      "likes": 72,
+      "reposts": 2,
+      "replies": 6,
+      "views": 5155,
+      "score": 58.29
+    },
+    {
+      "tweet_id": "2073462823179731032",
+      "url": "https://x.com/alex_prompter/status/2073462823179731032",
+      "author": "alex_prompter",
+      "text": "There are layers of working with AI. Prompt engineering. Context engineering. Harness engineering. Loop engineering. Layer 1 is prompt engineering. What you type into the chat window. How you word the instruction, what you ask for, what you tell it to avoid. This is where everyone starts. It matters, but few people go further. Layer 2 is context engineering. Everything the model sees before your prompt. System instructions, reference files, conversation history, examples of good output. A mediocre prompt with great context beats a great prompt with no context every time. Layer 3 is harness engineering. The code around the model. Tool routing, verification steps, retry logic, structured outputs. This is what makes AI reliable instead of just impressive. When the model checks its own work before returning it to you, that's the harness. Layer 4 is loop engineering. The system runs itself. You set a goal and a stop condition. The loop prompts the model, checks the output, adjusts, and repeats without you. This is where you stop being the bottleneck entirely. Each layer wraps the one before it. Better prompts help, but without context the model guesses. Context helps, but without a harness the output is inconsistent. A harness helps, but without a loop you're still manually triggering every run. Full setup guide for all 4 layers using Fable 5 below.",
+      "published_at": "Sat Jul 04 17:43:54 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"AI prompt\""
+      ],
+      "likes": 1281,
+      "reposts": 272,
+      "replies": 46,
+      "views": 107318,
+      "score": 57.56
+    },
+    {
+      "tweet_id": "2078116817818812823",
+      "url": "https://x.com/altiamkabir/status/2078116817818812823",
+      "author": "altiamkabir",
+      "text": "🚨 If someone offered you $50,000 to spend a weekend making an AI commercial... I'd seriously consider it. Runway's Another Big Ad Contest is now live with up to $100K in prizes and 15 winners. If I entered, I'd probably take the open brief and create a cinematic ad for a fictional AI product. The fun part is being able to mix and match models like Gen-4.5, Veo 3.1, Kling 3.0, and more, all inside Runway. @altiamkabir @anthara_ai We should team up for this. 👀 It's open to anyone with an active Runway subscription. Enter solo or as a team, submit as many ads as you want, and don't wait too long because entries close July 31. Another Big Ad Contest is live now: https://runwayml.com/sumonkabir_ai-contest Use code ANOTHER for 30% off one month of any Runway plan. @runwayml #RunwayBigAdContest #ad",
+      "published_at": "Fri Jul 17 13:57:13 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Veo\" OR \"Kling\" OR \"Sora\") prompt"
+      ],
+      "likes": 40,
+      "reposts": 13,
+      "replies": 21,
+      "views": 2154,
+      "score": 57.29
+    },
+    {
+      "tweet_id": "2081952214340534617",
+      "url": "https://x.com/Aiminithoughts/status/2081952214340534617",
+      "author": "Aiminithoughts",
+      "text": "Ai Mini Thoughts Creator Prompt Cinematic AI Video Prompt – Slow Mechanical Suit Transformation A beautiful young woman stands confidently in a futuristic industrial environment, holding a sleek metallic staff. The camera slowly dollies around her with dramatic cinematic lighting. She gently drops the staff onto the ground in ultra slow motion. As the staff touches the surface, a brilliant blue energy pulse spreads across the floor, and the staff transforms into millions of microscopic mechanical nanobots, metallic panels, gears, pistons, cables, and glowing energy particles that spiral around her body. Transformation Sequence (Slow, Piece by Piece): Boots: Mechanical boots assemble around her feet. Individual metal plates slide into place, hydraulic pistons extend, soles lock, and glowing energy lines activate. Lower Legs: Shin armor rises upward in multiple sections, followed by articulated knee guards that rotate and lock with satisfying mechanical clicks. Upper Legs: Segmented thigh armor wraps around each leg panel by panel, revealing carbon-fiber details and glowing circuitry. Waist: A reinforced mechanical belt forms around her waist, followed by armored hip guards and tactical utility components. Torso: The chest armor builds layer by layer from hundreds of interlocking metallic plates, revealing a bright glowing power core beneath transparent armor sections. Back: A robotic spine and back armor unfold with moving gears, cooling vents, and illuminated power conduits. Shoulders: Large shoulder pauldrons rotate into position and lock securely with realistic mechanical movements. Arms: Mechanical arm plating grows from the shoulders to the wrists, each armor segment sliding into place with precision. Hands: High-tech gauntlets assemble finger by finger, every joint and knuckle locking with intricate robotic detail. Neck: A protective armored collar rises slowly around her neck with glowing accents. Helmet: The helmet assembles dramatically in stages—rear shell, side panels, jaw guards, forehead plate, and finally a transparent illuminated visor slides smoothly over her face. As the final component locks into place, glowing energy flows across every armor seam. Steam vents briefly from the suit, tiny sparks flicker, and the mechanical systems power up with a deep futuristic hum. The woman slowly clenches her armored fist, takes a powerful stance, and the camera performs an epic 360° orbit before pulling back to reveal her fully assembled next-generation mechanical combat suit. Style: Ultra-realistic, photorealistic, cinematic, next-level sci-fi, realistic mechanical engineering, nanotechnology transformation, HDR, 8K, ray tracing, volumetric lighting, realistic metal textures, slow-motion, blockbuster VFX, dynamic camera movement, highly detailed, immersive, realistic physics. Disclaimer: This video is a fictional AI-generated sci-fi transformation created purely for entertainment and artistic purposes. All characters, effects, and transformations are imaginary and do not depict real events, products, or technology.",
+      "published_at": "Tue Jul 28 03:57:43 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"video prompt\" AI"
+      ],
+      "likes": 12,
+      "reposts": 3,
+      "replies": 3,
+      "views": 50992,
+      "score": 56.8
+    },
+    {
+      "tweet_id": "2080318877154852912",
+      "url": "https://x.com/venturetwins/status/2080318877154852912",
+      "author": "venturetwins",
+      "text": "I've been playing around with FLUX 3 for the last few week - it's an incredibly impressive model. It can generate up to 20 seconds of video across multiple shots with one prompt 🤯 This model is so strong at the little details that make a clip look real - a few favorites 👇",
+      "published_at": "Thu Jul 23 15:47:25 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Midjourney\" OR \"Flux\") prompt"
+      ],
+      "likes": 653,
+      "reposts": 55,
+      "replies": 39,
+      "views": 63115,
+      "score": 56.37
+    },
+    {
+      "tweet_id": "2081203021782962189",
+      "url": "https://x.com/Aiminithoughts/status/2081203021782962189",
+      "author": "Aiminithoughts",
+      "text": "Grok Imagine AI Prompt Cinematic AI Video Prompt (Image-to-Video) Prompt: A breathtaking celestial goddess stands in the heart of an infinite cosmic universe, wearing an elegant crimson crystalline gown woven with glowing golden energy filaments. Her sapphire-blue eyes shimmer with divine power as her long dark hair flows gracefully in zero gravity. Suddenly, radiant cosmic particles ignite around her, creating a spectacular halo of stardust, nebula clouds, and prismatic light. The camera begins with an ultra-close-up of her glowing eyes, then slowly pulls back into a dramatic cinematic orbit. Ethereal crystal shards float around her while galaxies swirl in the background. Streams of liquid light wrap around her body, forming luminous energy wings stretching across the universe. The fabric of space-time bends as celestial portals open behind her, releasing waves of colorful cosmic energy. She gracefully levitates above an alien crystal landscape while meteor showers streak across the sky. Massive rings of quantum energy rotate around her as glowing symbols and holographic constellations appear in the air. Every movement generates sparkling light trails and shimmering particles. The environment becomes increasingly epic, with exploding nebulae, black-hole lensing effects, aurora-colored clouds, and infinite stars illuminating the scene. The sequence ends with the goddess ascending into the heavens as colossal cosmic wings fully unfold, filling the screen with dazzling light before fading into a brilliant supernova. Hyper-realistic skin textures, cinematic facial expressions, ultra-detailed fabrics, ray-traced reflections, volumetric lighting, HDR, global illumination, depth of field, anamorphic lens flares, realistic physics simulation, 8K, IMAX quality, Hollywood VFX, Unreal Engine 5, next-level sci-fi fantasy masterpiece, photorealistic, cinematic, smooth camera movement, 60fps. Disclaimer: This video is an AI-generated cinematic fantasy created for entertainment and artistic purposes only. All characters, visuals, and events are fictional and do not depict real people or real events. Viewer discretion and imagination are appreciated.",
+      "published_at": "Sun Jul 26 02:20:41 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"AI prompt\"",
+        "web:site:x.com \"video prompt\" AI"
+      ],
+      "likes": 19,
+      "reposts": 2,
+      "replies": 2,
+      "views": 182293,
+      "score": 55.84
+    },
+    {
+      "tweet_id": "2080868190968778837",
+      "url": "https://x.com/sakhil_ai/status/2080868190968778837",
+      "author": "sakhil_ai",
+      "text": "✴️𝟯𝟬+ 𝗙𝗥𝗘𝗘 𝗔𝗜 𝗣𝗥𝗢𝗠𝗣𝗧 𝗪𝗘𝗕𝗦𝗜𝗧𝗘𝗦 The right prompt can completely change your AI output. Here are 30+ free websites to find inspiration and level up your prompts. ✅𝗘𝗩𝗘𝗥𝗬 𝗖𝗥𝗘𝗔𝗧𝗢𝗥 𝗦𝗛𝗢𝗨𝗟𝗗 𝗞𝗡𝗢𝗪 01. 𝗣𝗿𝗼𝗺𝗽𝘁𝗛𝗲𝗿𝗼 → Huge collection of AI prompts & images 02. 𝗟𝗲𝘅𝗶𝗰𝗮 → Search millions of Stable Diffusion prompts 03. 𝗢𝗽𝗲𝗻𝗔𝗿𝘁 → Free prompt library & AI image community 04. 𝗖𝗶𝘃𝗶𝘁𝗮𝗶 → Models, LoRA & thousands of prompts 05. 𝗧𝗲𝗻𝘀𝗼𝗿.𝗔𝗿𝘁 → Free prompts, models & workflows 06. 𝗦𝗲𝗮𝗔𝗿𝘁 𝗔𝗜 → Community prompts & AI tools 07. 𝗣𝗹𝗮𝘆𝗴𝗿𝗼𝘂𝗻𝗱 𝗔𝗜 → Explore public prompts & creations 08. 𝗞𝗿𝗲𝗮 𝗔𝗜 → Inspiration gallery & prompt ideas 09. 𝗠𝗮𝗴𝗲.𝗦𝗽𝗮𝗰𝗲 → Prompt gallery & creative tools 10. 𝗡𝗶𝗴𝗵𝘁𝗖𝗮𝗳𝗲 → Community creations with prompts 11. 𝗣𝗶𝗰𝗟𝘂𝗺𝗲𝗻 → Free prompt examples & AI art 12. 𝗙𝗿𝗲𝗲𝗽𝗶𝗸 𝗔𝗜 → AI image prompts & inspiration 13. 𝗣𝗿𝗼𝗺𝗽𝘁𝗗𝗲𝗻 → AI prompt collection website 14. 𝗣𝗿𝗼𝗺𝗽𝘁𝗼𝗺𝗮𝗻𝗶𝗮 → Huge list of creative prompts 15. 𝗙𝗹𝗼𝘄𝗚𝗣𝗧 → ChatGPT & AI prompt collection 16. 𝗛𝘂𝗴𝗴𝗶𝗻𝗴 𝗙𝗮𝗰𝗲 𝗦𝗽𝗮𝗰𝗲𝘀 → Many free AI prompt tools 17. 𝗠𝗮𝗶𝗴𝗲𝗻.𝗮𝗶 → Prompt inspiration & AI tools 18. 𝗔𝗿𝘁𝗛𝘂𝗯.𝗮𝗶 → AI art prompts & community 19. 𝗣𝗿𝗼𝗺𝗽𝘁𝗙𝗼𝗹𝗱𝗲𝗿 → Organized prompt collections 20. 𝗘𝗮𝘀𝘆-𝗣𝗲𝗮𝘀𝘆.𝗔𝗜 → Simple & effective prompt ideas 21. 𝗣𝗿𝗼𝗺𝗽𝘁𝗣𝗲𝗿𝗳𝗲𝗰𝘁 → AI prompt generator & optimizer 22. 𝗔𝗜𝗣𝗥𝗠 → Best ChatGPT prompts collection 23. 𝗡𝗼𝗼𝗻𝘀𝗵𝗼𝘁 → AI prompts for various use cases 24. 𝗪𝗿𝗶𝘁𝗶𝗻𝗴𝗠𝗮𝘁𝗲 → Prompt library for writers & creators 25. 𝗠𝗝 𝗣𝗿𝗼𝗺𝗽𝘁 𝗧𝗼𝗼𝗹 → Midjourney prompt generator 26. 𝗠𝗶𝗱𝗹𝗶𝗯𝗿𝗮𝗿𝘆 → Midjourney style & prompt library 27. 𝗣𝗿𝗼𝗺𝗽𝘁𝗝𝗼𝘂𝗿𝗻𝗲𝘆 → Curated Midjourney prompts 28. 𝗕𝗹𝘂𝗲𝗪𝗶𝗹𝗹𝗼𝘄 → Community prompts (Discord) 29. 𝗥𝗲𝗱𝗱𝗶𝘁 → r/midjourney, r/StableDiffusion → Great prompt resources 30. 𝗣𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁 → AI prompt collections & ideas ❤️ Like 🔁 Retweet 🔖 Bookmark Follow @sakhil_ai for more such posts",
+      "published_at": "Sat Jul 25 04:10:12 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"AI prompt\""
+      ],
+      "likes": 130,
+      "reposts": 62,
+      "replies": 36,
+      "views": 2279,
+      "score": 55.23
+    },
+    {
+      "tweet_id": "2080825635128381927",
+      "url": "https://x.com/Zayan_coder/status/2080825635128381927",
+      "author": "Zayan_coder",
+      "text": "30+ FREE AI Prompt Websites Every Creator Should Bookmark A great prompt can completely transform your AI results. Whether you're using ChatGPT, Midjourney, Stable Diffusion, Flux, or other AI tools, these free resources will help you create better prompts, discover new ideas, and improve your workflow. 🔥 Top Free AI Prompt Libraries & Communities 1. PromptHero – Massive collection of AI prompts & images 2. Lexica – Search millions of Stable Diffusion prompts 3. OpenArt – Prompt library + AI art community 4. Civitai – Models, LoRAs & thousands of prompts 5. Tensor. Art – Free models, prompts & workflows 6. SeaArt AI – Community prompts & AI tools 7. Playground AI – Explore public prompts & creations 8. Krea AI – Inspiration gallery & creative ideas 9. Mage. Space – Prompt gallery & AI tools 10. NightCafe – Community creations with prompts 11. PicLumen – Free prompt examples & AI art 12. Freepik AI – AI image prompts & inspiration 13. PromptDen – Curated AI prompt library 14. Promptomania – Creative prompts for multiple AI models 15. FlowGPT – One of the largest ChatGPT prompt collections 16. Hugging Face Spaces – Free AI apps, demos & prompt tools 17. Maigen. ai – Prompt inspiration & AI utilities 18. ArtHub. ai – AI art prompts & community showcase 19. PromptFolder – Organized prompt collections 20. Easy-Peasy AI – Simple, effective prompt ideas 21. PromptPerfect – Prompt generator & optimizer 22. AIPRM – Extensive ChatGPT prompt library 23. Noonshot – AI prompts for business & productivity 24. WritingMate – Prompt library for writers & creators 25. MJ Prompt Tool – Midjourney prompt generator 26. Midlibrary – Midjourney styles & prompt database 27. PromptJourney – Curated Midjourney prompts 28. BlueWillow – Community prompt sharing 29. Reddit – Communities like r/Midjourney & r/StableDiffusion 30. Pinterest – Endless AI prompt inspiration 💡 Save this list—you'll never run out of prompt ideas again. Which AI prompt website do you use the most? Drop it in the comments 👇",
+      "published_at": "Sat Jul 25 01:21:05 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"AI prompt\""
+      ],
+      "likes": 35,
+      "reposts": 24,
+      "replies": 14,
+      "views": 1072,
+      "score": 53.58
+    },
+    {
+      "tweet_id": "2076174324307025950",
+      "url": "https://x.com/catwomanjapan/status/2076174324307025950",
+      "author": "catwomanjapan",
+      "text": "The best place in the house to wind down! Chawon Sakura Yunjin Kazuha Le Sserafim Nano Banana Pro via AI Studio, prompt ⬇",
+      "published_at": "Sun Jul 12 05:18:27 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Nano Banana\" OR \"GPT Image\") prompt"
+      ],
+      "likes": 1313,
+      "reposts": 57,
+      "replies": 5,
+      "views": 94077,
+      "score": 52.68
+    },
+    {
+      "tweet_id": "2072002613701398780",
+      "url": "https://x.com/rohanpaul_ai/status/2072002613701398780",
+      "author": "rohanpaul_ai",
+      "text": "Google released Nano Banana 2 Lite, a 4-second image model, alongside Gemini Omni Flash. Image generation usually breaks creative work because every trial costs time, money, and attention. The lighter image model lowers that friction with 4-second outputs at $0.034 per 1K-resolution image. Chaining both models is the real product shape, not either model alone. Nano Banana 2 Lite makes reference images, then Gemini Omni Flash animates them. Google positions it as the replacement for gemini-2.5-flash-image across high-volume developer pipelines. Users still need prompt adherence, stable characters, and readable text during fast visual testing. Gemini Omni Flash extends the workflow from image drafts to editable 10-second video outputs. It accepts text, image, and video inputs, then edits clips through conversation. Pricing: $0.10 per second of video output, matching Veo 3.1 Fast. Gemini Omni Flash currently generates 10-second clips and lacks API audio reference support. Google says the API accepts video references up to 3 seconds, but Gemini Omni Flash does not process them correctly yet.” Interactions API keeps session context, so users can stack 3 sequential edits.",
+      "published_at": "Tue Jun 30 17:01:33 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Nano Banana\" OR \"GPT Image\") prompt"
+      ],
+      "likes": 44,
+      "reposts": 10,
+      "replies": 6,
+      "views": 8023,
+      "score": 52.01
+    },
+    {
+      "tweet_id": "2082064410596778046",
+      "url": "https://x.com/Arzoo12sh/status/2082064410596778046",
+      "author": "Arzoo12sh",
+      "text": "Open Gemini / Grok / GPT AI Video Prompt: A cinematic macro miniature world set on a frozen lake in winter. Four tiny human figures wearing warm winter coats, hats, scarves, and boots stand on a transparent ice bridge made of crystal-clear ice blocks. A large crack suddenly forms in the center of the bridge, with water dripping through the gap. The tiny people react with fear and surprise as the bridge begins to break. Snow-covered landscape, soft snowfall, realistic frozen water reflections, shallow depth of field, tilt-shift macro photography, ultra-detailed textures, Pixar + Studio Ghibli-inspired style, dramatic lighting, emotional rescue atmosphere, highly realistic, 8K, vertical 9:16, smooth cinematic camera movement, AI-generated miniature world.",
+      "published_at": "Tue Jul 28 11:23:33 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"video prompt\" AI"
+      ],
+      "likes": 94,
+      "reposts": 37,
+      "replies": 33,
+      "views": 1386,
+      "score": 51.71
+    },
+    {
+      "tweet_id": "2081764856969957796",
+      "url": "https://x.com/animetrends/status/2081764856969957796",
+      "author": "animetrends",
+      "text": "EL FINAL ORIGINAL ERA UNA TRAGEDIA El creador de \"Ryuuou no Oshigoto!\", Shirow Shiratori, reveló que el plan original de la historia era que la heroína principal, Ginko Sora, muriera. Según el autor, el esquema inicial dictaba que Ginko fallecería trágicamente a causa de una enfermedad poco después de alcanzar su meta profesional. Sin embargo, la dolorosa pérdida de sus propios familiares en el mundo real lo dejó sin fuerzas emocionales para escribir una historia tan triste. Fue entonces que el ilustrador oficial intervino silenciosamente, creando portadas tan esperanzadoras que hicieron imposible seguir con la tragedia, obligando al autor a cambiar el guion y darles un final feliz. El arte salvó a la waifu.",
+      "published_at": "Mon Jul 27 15:33:13 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Veo\" OR \"Kling\" OR \"Sora\") prompt"
+      ],
+      "likes": 1046,
+      "reposts": 62,
+      "replies": 17,
+      "views": 34493,
+      "score": 51.48
+    },
+    {
+      "tweet_id": "2081750398399050151",
+      "url": "https://x.com/Emdad_AI/status/2081750398399050151",
+      "author": "Emdad_AI",
+      "text": "30+ FREE AI Prompt Websites Every Creator Should Bookmark A great prompt can completely transform your AI results. Whether you're using ChatGPT, Midjourney, Stable Diffusion, Flux, or other AI tools, these free resources will help you create better prompts, discover new ideas, and improve your workflow. 🔥 Top Free AI Prompt Libraries & Communities 1. PromptHero – Massive collection of AI prompts & images 2. Lexica – Search millions of Stable Diffusion prompts 3. OpenArt – Prompt library + AI art community 4. Civitai – Models, LoRAs & thousands of prompts 5. Tensor. Art – Free models, prompts & workflows 6. SeaArt AI – Community prompts & AI tools 7. Playground AI – Explore public prompts & creations 8. Krea AI – Inspiration gallery & creative ideas 9. Mage. Space – Prompt gallery & AI tools 10. NightCafe – Community creations with prompts 11. PicLumen – Free prompt examples & AI art 12. Freepik AI – AI image prompts & inspiration 13. PromptDen – Curated AI prompt library 14. Promptomania – Creative prompts for multiple AI models 15. FlowGPT – One of the largest ChatGPT prompt collections 16. Hugging Face Spaces – Free AI apps, demos & prompt tools 17. Maigen. ai – Prompt inspiration & AI utilities 18. ArtHub. ai – AI art prompts & community showcase 19. PromptFolder – Organized prompt collections 20. Easy-Peasy AI – Simple, effective prompt ideas 21. PromptPerfect – Prompt generator & optimizer 22. AIPRM – Extensive ChatGPT prompt library 23. Noonshot – AI prompts for business & productivity 24. WritingMate – Prompt library for writers & creators 25. MJ Prompt Tool – Midjourney prompt generator 26. Midlibrary – Midjourney styles & prompt database 27. PromptJourney – Curated Midjourney prompts 28. BlueWillow – Community prompt sharing 29. Reddit – Communities like r/Midjourney & r/StableDiffusion 30. Pinterest – Endless AI prompt inspiration 💡 Save this list—you'll never run out of prompt ideas again. Which AI prompt website do you use the most? Drop it in the comments 👇",
+      "published_at": "Mon Jul 27 14:35:46 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"AI prompt\""
+      ],
+      "likes": 29,
+      "reposts": 14,
+      "replies": 10,
+      "views": 522,
+      "score": 50.96
+    },
+    {
+      "tweet_id": "2071988366925521075",
+      "url": "https://x.com/googleaidevs/status/2071988366925521075",
+      "author": "googleaidevs",
+      "text": "We’re launching Nano Banana 2 Lite, our fastest most cost-efficient Gemini Image model yet, optimized for high-throughput developer pipelines. Alongside it, Gemini Omni Flash, our video generation and editing model is now available to developers. Both models are accessible today via @GoogleAIStudio and the Gemini API to help you scale your workflows 👇",
+      "published_at": "Tue Jun 30 16:04:57 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Nano Banana\" OR \"GPT Image\") prompt"
+      ],
+      "likes": 245,
+      "reposts": 47,
+      "replies": 25,
+      "views": 1087891,
+      "score": 50.95
+    },
+    {
+      "tweet_id": "2072011929485463635",
+      "url": "https://x.com/arena/status/2072011929485463635",
+      "author": "arena",
+      "text": "Gemini 3.1 Flash Lite Image (Nano Banana 2 Lite) has entered the Text-to-Image Arena. It ranks #5 overall. Google's latest Gemini-3.1-Flash-Lite-Image lands on the Pareto frontier: scoring 1251 at just $0.034/image. This is near flagship quality at a fraction of the price. The cost-to-quality curve just got a lot more interesting. Congrats to @GoogleDeepMind on the release!",
+      "published_at": "Tue Jun 30 17:38:34 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Nano Banana\" OR \"GPT Image\") prompt"
+      ],
+      "likes": 311,
+      "reposts": 22,
+      "replies": 11,
+      "views": 61638,
+      "score": 50.38
+    },
+    {
+      "tweet_id": "2074931525762592883",
+      "url": "https://x.com/googledevs/status/2074931525762592883",
+      "author": "googledevs",
+      "text": "Meet the Nano Banana family: built to solve your image pipeline constraints. 🍌 From lightning-fast drafting to state-of-the-art 4K generation, see how the next-gen image models stack up - swipe to find your perfect match! Start playing in Google AI Studio: https://goo.gle/googleaistudio",
+      "published_at": "Wed Jul 08 19:00:00 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Nano Banana\" OR \"GPT Image\") prompt"
+      ],
+      "likes": 200,
+      "reposts": 26,
+      "replies": 10,
+      "views": 30388,
+      "score": 49.15
+    },
+    {
+      "tweet_id": "2078489721605648840",
+      "url": "https://x.com/rezkhere/status/2078489721605648840",
+      "author": "rezkhere",
+      "text": "Fable this, SOL that... At the end of the day, which is actually better at video stuff? I put Fable 5 and GPT 5.6 SOL head to head with the same paper diorama video idea. Their job was to make the hero frame using Nano Banana Pro and generate the perfect Seedance 2.0 for each. For tooling, we used Arcads MCP. Head to head, I think Fable 5 did it better. Although the hook and particular frames 5.6 SOL put together are on another level. Overall verdict: Fable 5 is for consistency while 5.6 SOL is for unique, artistic frames.",
+      "published_at": "Sat Jul 18 14:39:00 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Nano Banana\" OR \"GPT Image\") prompt"
+      ],
+      "likes": 49,
+      "reposts": 15,
+      "replies": 9,
+      "views": 13173,
+      "score": 48.96
+    },
+    {
+      "tweet_id": "2079802758530789854",
+      "url": "https://x.com/genel_ai/status/2079802758530789854",
+      "author": "genel_ai",
+      "text": "アリババの最新画像生成AI「Qwen-Image-3.0」 日本人女性の比較 ・Qwen-Image-3.0 ・Seedream 5.0 Pro ・Nano Banana Pro ・ChatGPT Images 2.0 🍌やSeedreamよりはリアルな感じがしますが、やはりGPT Images 2.0が1番良さそうな印象👀 動画生成AI「Kling」でそれぞれ動かしてみた結果↓",
+      "published_at": "Wed Jul 22 05:36:33 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Nano Banana\" OR \"GPT Image\") prompt"
+      ],
+      "likes": 65,
+      "reposts": 11,
+      "replies": 1,
+      "views": 10901,
+      "score": 48.25
+    },
+    {
+      "tweet_id": "2074055274403672163",
+      "url": "https://x.com/shedntcare_/status/2074055274403672163",
+      "author": "shedntcare_",
+      "text": "🚨 BREAKING: Microsoft Research + Salesforce just revealed a flaw that affects every major AI model. They evaluated GPT-4.1, Gemini 2.5 Pro, Claude 3.7 Sonnet, o3, DeepSeek R1, Llama 4, and more across 200,000+ simulated conversations. The results: • Single-turn prompts: 90% performance • Multi-turn conversations: 65% performance The biggest issue isn't intelligence. It's reliability. Models: Lock onto early assumptions. Double down on incorrect answers. Lose context during longer conversations. Make more mistakes as chats get longer. Even reasoning models couldn't avoid it. The takeaway: if you want better outputs, provide as much context as possible in one prompt instead of spreading it across multiple messages. GIVEAWAY To celebrate this research, I'm giving away 10 AI Prompt Packs packed with my best prompts for ChatGPT, Claude, Gemini, and other LLMs. To enter: • Like this post • Repost it • Comment \"PROMPTS\" I'll randomly pick 10 winners in 48 hours. Link to the research is in the first comment.",
+      "published_at": "Mon Jul 06 08:58:06 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"AI prompt\""
+      ],
+      "likes": 66,
+      "reposts": 14,
+      "replies": 24,
+      "views": 8015,
+      "score": 47.79
+    },
+    {
+      "tweet_id": "2081768654929072162",
+      "url": "https://x.com/Neuron_404/status/2081768654929072162",
+      "author": "Neuron_404",
+      "text": "THREE STEPS IN CHATGPT TURN A FLAT POSTER INTO A LIVE ANIMATION AND HERE'S HOW this video walks through a dead-simple workflow for making collage-style motion graphics with chatgpt and seedance 2.0 - no editors, no timelines, no motion-design skills. > first you generate a collage poster in chatgpt: either describe it in words or upload a reference > then you ask chatgpt to write a video prompt that animates every layer from a blank canvas > you drop that prompt plus your image into seedance 2.0 and hit generate > out comes a finished animated poster, put together in a few minutes the real trick here isn't a single tool, it's the combo: chatgpt writes the instructions for the video model and seedance executes them. what used to take an evening in after effects now comes together in three steps without a line of code. AI is moving fast, so follow me so you don't miss a thing.",
+      "published_at": "Mon Jul 27 15:48:19 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"video prompt\" AI"
+      ],
+      "likes": 60,
+      "reposts": 6,
+      "replies": 13,
+      "views": 3384,
+      "score": 46.35
+    },
+    {
+      "tweet_id": "2075796444917956660",
+      "url": "https://x.com/rena_takeda/status/2075796444917956660",
+      "author": "rena_takeda",
+      "text": "sorato - 最終回 [Music Video] https://youtu.be/D2yjyOW6tjc?si=zJdDJl8bp9fn_bbl @YouTubeより",
+      "published_at": "Sat Jul 11 04:16:53 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Veo\" OR \"Kling\" OR \"Sora\") prompt"
+      ],
+      "likes": 496,
+      "reposts": 40,
+      "replies": 0,
+      "views": 33665,
+      "score": 46.21
+    },
+    {
+      "tweet_id": "2080312631416574373",
+      "url": "https://x.com/hila_chefer/status/2080312631416574373",
+      "author": "hila_chefer",
+      "text": "Beyond excited to finally share FLUX 3 with the world! 🚀 4 months ago, we released our research paper, Self-Flow, to the community. Seeing those core ideas come to life at scale inside FLUX 3 has been one of the most rewarding experiences of my career. FLUX 3 brings Image, Video, Audio, and Action-Prediction together into a single multi-modal model. And we are just getting started... Super grateful to be a part of this incredible team @bfl_ai!",
+      "published_at": "Thu Jul 23 15:22:36 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Midjourney\" OR \"Flux\") prompt"
+      ],
+      "likes": 310,
+      "reposts": 18,
+      "replies": 32,
+      "views": 25175,
+      "score": 45.98
+    },
+    {
+      "tweet_id": "2081483621349658684",
+      "url": "https://x.com/georgfranz/status/2081483621349658684",
+      "author": "georgfranz",
+      "text": "The newest AI models need fewer rules, clearer boundaries, and a very different prompt stack. Here is what I am changing after 100,000 prompts and 15 million model messages.",
+      "published_at": "Sun Jul 26 20:55:42 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"image prompt\" Midjourney"
+      ],
+      "likes": 256,
+      "reposts": 16,
+      "replies": 28,
+      "views": 694955,
+      "score": 44.04
+    },
+    {
+      "tweet_id": "2072033519745016224",
+      "url": "https://x.com/TechCrunch/status/2072033519745016224",
+      "author": "TechCrunch",
+      "text": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/?utm_source=dlvr.it&utm_medium=twitter",
+      "published_at": "Tue Jun 30 19:04:22 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Nano Banana\" OR \"GPT Image\") prompt"
+      ],
+      "likes": 49,
+      "reposts": 10,
+      "replies": 5,
+      "views": 20451,
+      "score": 42.92
+    },
+    {
+      "tweet_id": "2072257361067094177",
+      "url": "https://x.com/rugikkk/status/2072257361067094177",
+      "author": "rugikkk",
+      "text": "She makes $2k+ a month selling AI UGC that doesn’t exist. A woman applies mascara, blends blush, tries jackets - all generated in Arcads in under 10 minutes. One prompt. Node workflow. Seedance 2.0 stitches start and end frames. Hyper-realistic clips ready to post. Brands pay $60–$100 per asset. Run 30 a month and the money prints itself.",
+      "published_at": "Wed Jul 01 09:53:50 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"image prompt\" Midjourney"
+      ],
+      "likes": 66,
+      "reposts": 6,
+      "replies": 4,
+      "views": 10802,
+      "score": 42.67
+    },
+    {
+      "tweet_id": "2074579434783281660",
+      "url": "https://x.com/freesiavacadoo/status/2074579434783281660",
+      "author": "freesiavacadoo",
+      "text": "still can’t believe namine wasn’t in the game about searching through kairis memories for whereabouts about sora 😭😭 like come onnnnnn",
+      "published_at": "Tue Jul 07 19:40:55 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Veo\" OR \"Kling\" OR \"Sora\") prompt"
+      ],
+      "likes": 426,
+      "reposts": 18,
+      "replies": 11,
+      "views": 13043,
+      "score": 41.21
+    },
+    {
+      "tweet_id": "2073513859814416704",
+      "url": "https://x.com/Waratin2115/status/2073513859814416704",
+      "author": "Waratin2115",
+      "text": "𝐏’𝐍𝐚𝐦 𝐚𝐧𝐝 𝐋𝐚𝐝𝐚 𝐭𝐡𝐨𝐮𝐠𝐡𝐭𝐬 𝐨𝐧 𝐋𝐨𝐯𝐞 : 𝑷’𝑵𝒂𝒎 💧 : 𝑳𝒐𝒗𝒆 𝒊𝒔𝒏’𝒕 𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈 𝒏𝒐𝒏𝒔𝒆𝒏𝒔𝒆, 𝑭𝒂𝒊. 𝑰𝒕’𝒔 𝒕𝒉𝒆 𝒐𝒕𝒉𝒆𝒓 𝒘𝒂𝒚 𝒂𝒓𝒐𝒖𝒏𝒅. 𝑰 𝒕𝒉𝒊𝒏𝒌 𝒍𝒐𝒗𝒆 𝒎𝒂𝒌𝒆𝒔 𝒖𝒔 𝒔𝒆𝒆 𝒕𝒉𝒆 𝒕𝒓𝒖𝒆 𝒎𝒆𝒂𝒏𝒊𝒏𝒈 𝒊𝒏 𝒍𝒊𝒇𝒆 𝒂𝒏𝒅 𝒎𝒂𝒌𝒆𝒔 𝒖𝒔 𝒉𝒂𝒑𝒑𝒊𝒆𝒓 𝒕𝒉𝒂𝒏 𝒘𝒉𝒆𝒏 𝒂𝒍𝒍 𝒘𝒆 𝒅𝒊𝒅 𝒊𝒏 𝒍𝒊𝒇𝒆 𝒘𝒂𝒔 𝒘𝒐𝒓𝒌. 𝑻𝒓𝒖𝒔𝒕 𝒎𝒆. 𝑳𝒂𝒅𝒂 🌊 : 𝑨𝒔 𝒇𝒐𝒓 𝒎𝒆, 𝒂 𝒈𝒐𝒐𝒅 𝒍𝒐𝒗𝒆 𝒊𝒔 𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈 𝒕𝒉𝒂𝒕 𝒎𝒂𝒌𝒆𝒔 𝒚𝒐𝒖 𝒍𝒐𝒗𝒆 𝒚𝒐𝒖𝒓𝒔𝒆𝒍𝒇. 𝑰 𝒖𝒔𝒆𝒅 𝒕𝒐 𝒕𝒉𝒊𝒏𝒌 𝑰 𝒄𝒐𝒖𝒍𝒅 𝒍𝒊𝒗𝒆 𝒂𝒍𝒐𝒏𝒆 𝒂𝒏𝒅 𝒃𝒆 𝒐𝒏 𝒎𝒚 𝒐𝒘𝒏. 𝑩𝒖𝒕 𝒂𝒇𝒕𝒆𝒓 𝑰 𝒎𝒆𝒕 𝑷’𝑵𝒂𝒎, 𝑰’𝒗𝒆 𝒓𝒆𝒂𝒍𝒊𝒛𝒆𝒅 𝒕𝒉𝒂𝒕 𝒘𝒆 𝒅𝒐𝒏’𝒕 𝒂𝒍𝒘𝒂𝒚𝒔 𝒏𝒆𝒆𝒅 𝒕𝒐 𝒃𝒆 𝒔𝒕𝒓𝒐𝒏𝒈 𝒐𝒓 𝒈𝒐𝒐𝒅 𝒂𝒕 𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈. 𝑰𝒇 𝒕𝒉𝒆𝒓𝒆 𝒂𝒓𝒆 𝒕𝒊𝒎𝒆𝒔 𝒘𝒉𝒆𝒏 𝑰 𝒘𝒂𝒏𝒕 𝒕𝒐 𝒄𝒓𝒚 𝒐𝒓 𝒅𝒐𝒏’𝒕 𝒘𝒂𝒏𝒕 𝒕𝒐 𝒂𝒄𝒕 𝒔𝒕𝒓𝒐𝒏𝒈, 𝑷’𝑵𝒂𝒎 𝒘𝒊𝒍𝒍 𝒂𝒍𝒘𝒂𝒚𝒔 𝒃𝒆 𝒕𝒉𝒆𝒓𝒆 𝒕𝒐 𝒔𝒖𝒑𝒑𝒐𝒓𝒕 𝒎𝒆. THE AIR FINAL EPISODE #เสน่หาวาโยตอนจบ #อิงล็อต #englot",
+      "published_at": "Sat Jul 04 21:06:42 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Veo\" OR \"Kling\" OR \"Sora\") prompt"
+      ],
+      "likes": 160,
+      "reposts": 34,
+      "replies": 1,
+      "views": 2990,
+      "score": 40.85
+    },
+    {
+      "tweet_id": "2079292774109810786",
+      "url": "https://x.com/sibyog13/status/2079292774109810786",
+      "author": "sibyog13",
+      "text": "Openship : Une plateforme open source pour construire, déployer et exploiter des applications Vous cherchez un moyen de gérer efficacement vos applications ? Openship est une solution open source qui vous permet de remplacer les outils de déploiement, les services gérés et les flux de travail d'infrastructure par une seule plateforme. Voici ce que vous pouvez attendre d'Openship : * Serveur de messagerie : Fonctionne sur votre propre VPS avec des domaines illimités et des boîtes aux lettres illimitées. Inclut un webmail moderne et une forte délivrabilité des emails. * Déploiement : Déployez n'importe quelle pile avec des déploiements basés sur Git et des déploiements sans interruption. Openship offre également la possibilité de faire des retours en arrière en un clic et de déployer sur différents environnements. * Services : Provisionnez les services dont vos applications ont besoin en un seul clic, tels que Supabase, PostgreSQL, MySQL, MariaDB, MongoDB, Redis et bien plus encore. Openship offre également des fonctionnalités avancées telles que la gestion des secrets, l'automatisation des sauvegardes et une surveillance en temps réel. La plateforme est également conçue pour faciliter le travail des développeurs avec un tableau de bord web, une application de bureau native et une CLI. Quels sont les outils que vous utilisez pour gérer vos applications ? Avez-vous déjà essayé Openship ou d'autres plateformes open source similaires ? Partagez votre expérience ! https://github.com/oblien/openship",
+      "published_at": "Mon Jul 20 19:50:03 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Midjourney\" OR \"Flux\") prompt"
+      ],
+      "likes": 43,
+      "reposts": 12,
+      "replies": 3,
+      "views": 1999,
+      "score": 40.71
+    },
+    {
+      "tweet_id": "2075133710891167800",
+      "url": "https://x.com/Radh1ka_/status/2075133710891167800",
+      "author": "Radh1ka_",
+      "text": "Stop relying on random prompts. This workflow breaks AI influencer dance videos into a repeatable production pipeline—from idea to final edit—with prompts included. Worth bookmarking. 💃🤖",
+      "published_at": "Thu Jul 09 08:23:25 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"video prompt\" AI"
+      ],
+      "likes": 16,
+      "reposts": 14,
+      "replies": 106,
+      "views": 51259,
+      "score": 40.69
+    },
+    {
+      "tweet_id": "2077526636162109842",
+      "url": "https://x.com/itsPixieVerse/status/2077526636162109842",
+      "author": "itsPixieVerse",
+      "text": "GPT Image 2 Character Sheet Prompt: Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen layout on a pure white background, following this exact structured composition and visual aesthetic: [STYLE]: highly polished 2D digital anime illustration, characterized by clean uniform ink outlines, completely flat colors, sharp cel-shaded graphic shadows, and zero soft gradients. The presentation is set against a clean off-white studio background with crisp, solid graphic shadows. [SUBJECT_DESCRIPTION]: A powerful young female character with short, sleek dark-brown bob hair and a quiet, intense gaze. She wears a high-collared, zippered bright royal-blue jacket and high-waisted black wide-leg trousers that drape over her dark shoes. She possesses the unique ability to absorb electricity and light directly from the world. Swirling, flat-colored neon-pink ribbons of pure kinetic energy float and coil dynamically around her body. As she pulls on these pink ribbons, she drains the surrounding atmosphere of its power—surrounding lights flicker out, electric currents die, and the world slowly falls into a quiet, shadowy stillness. Behind her, sharp, flat-shaded yellow geometric lightning-bolt vectors crackle and flare as she drains the environment's energy. Layout Composition (Organize strictly into these sections): 1. LEFT PANEL: METADATA & TURNAROUND - Large, bold vertical typography of the character's Name in a clean, heavy sans-serif condensed font. - Metadata Block: \"ROLE\", \"CORE MOOD\", and \"VISUAL SIGNATURE\" detailed in a clean sans-serif font. - MINI TURNAROUND: 3 small, clean vertical figures showing \"neutral\", \"back view\", and \"profile\" stances of her standing in her blue zippered jacket and black trousers with coiling pink ribbons. - SILHOUETTE STUDY: 3 small, solid-black silhouette matchings of the turnaround stances underneath. - EXPRESSION STUDY (Bottom Left): Exactly 4 small, close-up headshots showing subtle shifts in expression: a quiet intense look, her eyes glowing with tiny yellow electric static, her calmly pulling a pink energy ribbon, and a solemn, hollow expression as the world around her goes quiet. 2. CENTRAL PANEL: THE CENTERPIECE - One giant, dominant full-body figure of the character standing in her iconic pose, surrounded by coiling, vibrant pink ribbons and flanked by sharp, geometric yellow lightning bolts. This figure must visually dominate the center of the sheet with maximum detail. 3. RIGHT PANEL: MULTI-POSE & THEMATIC STUDIES - POSE STUDY: Exactly 4 to 5 small-to-medium figures in dynamic, casual stances (such as \"lazily pulling a glowing pink ribbon from a street lamp, turning it pitch black\", \"standing in a dim, dark room illuminated only by her glowing pink ribbons\", \"holding a crackling yellow lightning bolt in her hand\", \"low angle perspective\", or \"top view\"), showing off her light-draining abilities, each with a small handwritten-style descriptive label underneath. - OPTIONAL SPECIALTY STUDY: A vertical strip of 4-6 artistic, painterly portraits with expressive brushstroke borders showing different angles of her face and her glowing yellow electric pupils. 4. BOTTOM RIGHT PANEL: DETAIL STUDY - Exactly 5 small square close-up crops highlighting the character's unique features and flat-colored textures (e.g., her sleek dark bob hair and intense eyes, the bright royal-blue zippered jacket fabric, the high-waisted black wide-leg trousers, a flat coiling neon-pink ribbon, and a sharp yellow geometric lightning-bolt vector). - Each crop must have a clean, neat handwriting-style label underneath describing the detail (e.g., sleek bob, blue zippered jacket, neon-pink ribbon). Keep the entire presentation visually consistent, clean, and highly professional, mimicking a real studio-grade character design bible.",
+      "published_at": "Wed Jul 15 22:52:03 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Nano Banana\" OR \"GPT Image\") prompt"
+      ],
+      "likes": 5,
+      "reposts": 0,
+      "replies": 1,
+      "views": 359,
+      "score": 40.61
+    },
+    {
+      "tweet_id": "2077197944638640241",
+      "url": "https://x.com/HaniaAi12/status/2077197944638640241",
+      "author": "HaniaAi12",
+      "text": "Video Prompt: Create a 10-second ultra-realistic vertical (9:16) beauty product review video with smooth cinematic transitions and a premium Korean skincare aesthetic. Start with a close-up hero shot of the setting spray in hand, followed by the packaging reveal, macro texture spray demonstration, model applying the mist on her face, glowing skin reaction, before-and-after comparison, nozzle mist close-up in slow motion, and finish with a clean hero product shot. Use soft natural window lighting, shallow depth of field, creamy bokeh, realistic skin tones, luxury commercial quality, smooth camera movement, fast-paced editing, ASMR spray sound, and subtle background music.",
+      "published_at": "Wed Jul 15 01:05:57 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"video prompt\" AI"
+      ],
+      "likes": 3,
+      "reposts": 1,
+      "replies": 1,
+      "views": 934,
+      "score": 39.36
+    },
+    {
+      "tweet_id": "2072499114957549612",
+      "url": "https://x.com/heyakash_ai/status/2072499114957549612",
+      "author": "heyakash_ai",
+      "text": "GPT Image 2 on ChatGPT Prompt 👇",
+      "published_at": "Thu Jul 02 01:54:28 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Nano Banana\" OR \"GPT Image\") prompt"
+      ],
+      "likes": 61,
+      "reposts": 22,
+      "replies": 28,
+      "views": 1685,
+      "score": 38.51
+    },
+    {
+      "tweet_id": "2077046449054126223",
+      "url": "https://x.com/matchaman11/status/2077046449054126223",
+      "author": "matchaman11",
+      "text": "🚨 JUST IN: Seedance 2.5 has been delayed. The official release is no longer happening on the original date. 📅 New release date: July 20. The countdown starts again. Follow the GitHub project below for Seedance 2.5 updates👇",
+      "published_at": "Tue Jul 14 15:03:57 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Veo\" OR \"Kling\" OR \"Sora\") prompt"
+      ],
+      "likes": 32,
+      "reposts": 2,
+      "replies": 7,
+      "views": 4205,
+      "score": 37.51
+    },
+    {
+      "tweet_id": "2080332041602613592",
+      "url": "https://x.com/mark_k/status/2080332041602613592",
+      "author": "mark_k",
+      "text": "Flux 3 is here. Images, video, reasoning and more. One multimodal AI that does everything!",
+      "published_at": "Thu Jul 23 16:39:44 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Midjourney\" OR \"Flux\") prompt"
+      ],
+      "likes": 157,
+      "reposts": 9,
+      "replies": 14,
+      "views": 9583,
+      "score": 37.31
+    },
+    {
+      "tweet_id": "2075819542673289681",
+      "url": "https://x.com/nna_nna_nnaaai/status/2075819542673289681",
+      "author": "nna_nna_nnaaai",
+      "text": "@sora_ama_pray https://www.setandset.com/archives/lantis2019day1.html",
+      "published_at": "Sat Jul 11 05:48:40 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Veo\" OR \"Kling\" OR \"Sora\") prompt"
+      ],
+      "likes": 90,
+      "reposts": 9,
+      "replies": 0,
+      "views": 107037,
+      "score": 36.85
+    },
+    {
+      "tweet_id": "2072055069718306829",
+      "url": "https://x.com/evernote/status/2072055069718306829",
+      "author": "evernote",
+      "text": "🎯 Introducing AI Prompts If you find yourself rewriting the same requests to AI over and over, save them as AI Prompts instead. Start with Evernote's Prompt Library for inspiration, then create your own reusable prompts that understand your context. Find AI Prompts when starting a new note, in the toolbar when selecting text, or from an audio recording. What AI Prompt would save you the most time? We'd love to hear your ideas in the comments. 👇",
+      "published_at": "Tue Jun 30 20:30:00 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"AI prompt\""
+      ],
+      "likes": 54,
+      "reposts": 3,
+      "replies": 11,
+      "views": 9681,
+      "score": 36.44
+    },
+    {
+      "tweet_id": "2076939765530698132",
+      "url": "https://x.com/michaelrabone/status/2076939765530698132",
+      "author": "michaelrabone",
+      "text": "Exploring Realistic Skin with Vitiligo Midjourney 8.1/8.2 (+ Gemini) Image prompt in the comment 🌶️ Video prompt in the comment 🍌",
+      "published_at": "Tue Jul 14 08:00:02 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"image prompt\" Midjourney"
+      ],
+      "likes": 32,
+      "reposts": 2,
+      "replies": 2,
+      "views": 7396,
+      "score": 34.15
+    },
+    {
+      "tweet_id": "2075897824013844917",
+      "url": "https://x.com/necrosamus/status/2075897824013844917",
+      "author": "necrosamus",
+      "text": "POV: your camera roll if you were dating sora",
+      "published_at": "Sat Jul 11 10:59:44 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Veo\" OR \"Kling\" OR \"Sora\") prompt"
+      ],
+      "likes": 93,
+      "reposts": 6,
+      "replies": 5,
+      "views": 796,
+      "score": 33.3
+    },
+    {
+      "tweet_id": "2077298369303580819",
+      "url": "https://x.com/FranceCryptos/status/2077298369303580819",
+      "author": "FranceCryptos",
+      "text": "🚨 Stripe et le fonds Advent International proposent de racheter PayPal pour plus de 53 milliards de dollars, selon Reuters. Stripe, le plus gros acteur du paiement encore non coté en Bourse, s'allie à un grand fonds d'investissement pour absorber la marque que des centaines de millions de personnes utilisent pour payer en ligne. L'offre valorise PayPal à plus de 53 milliards de dollars. Pour l'utilisateur comme pour l'investisseur, c'est un signal de consolidation massive dans les paiements. Ces mêmes acteurs poussent aussi les stablecoins et les rails blockchain: PayPal a déjà lancé le sien, Stripe s'est offert une start-up de stablecoins. Le rachat placerait donc une immense part des flux d'argent en ligne, classiques comme crypto, dans très peu de mains.",
+      "published_at": "Wed Jul 15 07:45:00 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Midjourney\" OR \"Flux\") prompt"
+      ],
+      "likes": 7,
+      "reposts": 1,
+      "replies": 0,
+      "views": 2023,
+      "score": 30.93
+    }
+  ]
 }
