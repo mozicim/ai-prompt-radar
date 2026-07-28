@@ -1,0 +1,18 @@
+# English
+site:x.com "AI prompt"
+site:x.com "image prompt" Midjourney
+site:x.com "video prompt" AI
+site:x.com "prompt" "Veo"
+site:x.com "prompt" "Sora"
+site:x.com "prompt" "Kling"
+site:x.com "prompt" "Flux"
+site:x.com "prompt" "Nano Banana"
+site:x.com "prompt" "GPT Image"
+site:x.com "prompt engineering"
+
+# Türkçe
+site:x.com "yapay zekâ prompt"
+site:x.com "yapay zeka prompt"
+site:x.com "görsel prompt"
+site:x.com "video promptu"
+site:x.com "bu promptu kullan"
