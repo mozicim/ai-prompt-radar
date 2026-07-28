@@ -6,6 +6,7 @@ from src.prompt_radar import (
     discover_from_feed,
     discover_from_search_results,
     extract_inline_counts,
+    is_prompt_content,
     merge_candidates,
     prompt_likelihood,
     score_candidate,
@@ -56,6 +57,22 @@ class PromptRadarTests(unittest.TestCase):
                 item, datetime(2026, 7, 28, 10, tzinfo=timezone.utc)
             ),
             28,
+        )
+
+    def test_rejects_ai_news_without_prompt_payload(self) -> None:
+        self.assertFalse(
+            is_prompt_content(
+                "Google released a faster Nano Banana image model today with "
+                "lower prices and improved throughput for developers."
+            )
+        )
+
+    def test_accepts_labeled_video_prompt(self) -> None:
+        self.assertTrue(
+            is_prompt_content(
+                "Video Prompt: A cinematic macro world on a frozen lake, "
+                "camera slowly pushes forward with dramatic blue lighting."
+            )
         )
 
 
