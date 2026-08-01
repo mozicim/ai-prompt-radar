@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-01",
+  "count": 1,
+  "method": "public-search-rss-plus-keyless-public-embed",
+  "items": [
+    {
+      "tweet_id": "2078511108508316065",
+      "url": "https://x.com/codewithhajra/status/2078511108508316065",
+      "author": "codewithhajra",
+      "text": "GPT Image 2 on ChatGPT Try with your own image and show the results. PROMPT SETTINGS Mood: Dreamy, Water Color: Teal Blue, Expression: Eyes Closed, Shirt Style: Wet White Shirt, Portrait Crop: Close-Up MAIN PROMPT Upload one reference image before generating. Create an ultra-realistic cinematic underwater portrait using the uploaded image as the only identity reference. FORMAT LOCK Vertical 9:16 composition, centered close-up portrait, symmetrical framing, luxury editorial photography aesthetic. IDENTITY LOCK Preserve the exact facial structure, face shape, hairstyle, hairline, eyebrows, eyes, nose, lips, jawline, skin tone, facial proportions, age appearance, and recognizable identity from the uploaded image. Do not beautify, redesign, or alter facial features. The final result must immediately resemble the reference person. UNDERWATER SCENE The subject is floating peacefully underwater. Face positioned close to the camera. {{Expression}} expression. Calm, emotional, feminine, dreamlike atmosphere, natural floating posture, realistic underwater physics. HAIR Wet voluminous hair floating naturally in the water, soft movement and realistic buoyancy, individual strands drifting around the face, elegant underwater motion. WARDROBE {{Shirt Style}}, semi-translucent wet fabric, slightly open collar, natural folds, realistic water interaction, delicate collarbone visibility, subtle movement created by underwater currents. DETAILS Tiny floating air bubbles surrounding the subject, natural bubble distribution, subtle diamond stud earrings, realistic glowing skin texture, natural glossy lips, luxury fashion-editorial styling. LIGHTING Dramatic underwater caustic lighting, realistic ripple-light patterns projected across the face, neck, shoulders, and clothing, soft volumetric underwater haze, moody highlights and shadows, warm skin highlights balanced against cool underwater tones. COLOR GRADING {{Water Color}} underwater environment, soft aqua tones, cinematic teal-blue atmosphere, luxury magazine color grading, rich contrast, premium editorial finish. CAMERA 85mm lens aesthetic, f/1.8 depth of field, shallow focus, ultra-sharp facial detail, professional underwater photography quality. STYLE High-end fashion editorial, luxury magazine cover aesthetic, photorealistic underwater portrait, cinematic realism, ethereal feminine energy, premium visual storytelling. OUTPUT STYLE Ultra-realistic underwater photography, cinematic portrait, luxury editorial campaign, premium fashion-magazine aesthetic, photorealistic rendering, masterpiece-quality detail, HDR realism, 8K quality. NEGATIVE PROMPT Cartoon, anime, masculine facial features, CGI appearance, blurry face, extra limbs, distorted anatomy, unrealistic body proportions, unrealistic bubbles, oversaturated skin, duplicate features, heavy makeup, exaggerated smile, open eyes, grainy image, low-quality rendering, fish, swimming-pool edges, cluttered background, text, watermark. Make the aspect ratio 3:4.",
+      "published_at": "Sat Jul 18 16:03:59 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Nano Banana\" OR \"GPT Image\") prompt"
+      ],
+      "likes": 54,
+      "reposts": 8,
+      "replies": 24,
+      "views": 2237,
+      "score": 60.92,
+      "preview_url": "https://pbs.twimg.com/media/HNha1gNWYAAFIe7.jpg?name=orig",
+      "preview_path": "assets/2026-08-01/2078511108508316065.jpg"
+    }
+  ]
+}
