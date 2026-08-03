@@ -1,0 +1,58 @@
+{
+  "date": "2026-08-03",
+  "count": 3,
+  "method": "public-search-rss-plus-keyless-public-embed",
+  "items": [
+    {
+      "tweet_id": "2082520302052163820",
+      "url": "https://x.com/YourAlphaMom/status/2082520302052163820",
+      "author": "YourAlphaMom",
+      "text": "Which AI video model is best for creating anime? I tested 4 of the most popular AI video models: Seedance 2.0, Kling 3.0 Pro, Gemini Omni Flash, and Grok Imagine 1.5. Same prompt for all four (I’ll drop it in the comments), and each model got up to 4 attempts. None of them got it perfect, but I definitely have a favorite. - Gemini Omni Flash There were a lot of mistakes, and I’m not very impressed with the final result. It doesn’t fully feel like anime, and Omni Flash is also very expensive. For this specific task, I don’t think it’s the best choice. - Grok Imagine 1.5 The weakest result here. The character consistency is poor, and overall it struggled the most with the task. - Kling 3.0 Pro Actually pretty decent. Considering how affordable it is, you can comfortably spend more attempts refining the result without burning through your budget. A solid option. - Seedance 2.0 My winner. It gave me the best result and needed fewer attempts to get there. For anime-style video, this is the model I’d pick right now. And with the full release of Seedance 1.5 coming very soon, it should become an even stronger option for this kind of content. So my recommendation: Seedance. Which result do you think looks best? And what AI model do you use? Follow for more useful AI video tests. Love, Alpha Mom 💙 #AIVideo",
+      "published_at": "Wed Jul 29 17:35:06 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Veo\" OR \"Kling\" OR \"Sora\") prompt"
+      ],
+      "likes": 10,
+      "reposts": 0,
+      "replies": 2,
+      "views": 987,
+      "score": 40.15,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2082519313643188224/img/CHxpS4ongfwUg8Px.jpg",
+      "preview_path": "assets/2026-08-03/2082520302052163820.jpg"
+    },
+    {
+      "tweet_id": "2083954548255727668",
+      "url": "https://x.com/Dheepanratnam/status/2083954548255727668",
+      "author": "Dheepanratnam",
+      "text": "AI Created this nature documentary text to video prompt with seedance 2.5 - 30s. including the narration. added soft bgm and subtitles with capcut Prompt in the comments ⤵️",
+      "published_at": "Sun Aug 02 16:34:16 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"video prompt\" AI"
+      ],
+      "likes": 49,
+      "reposts": 3,
+      "replies": 11,
+      "views": 1940,
+      "score": 35.84,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2083953617808105472/img/qSE_Ea2m2dSCrcJ5.jpg",
+      "preview_path": "assets/2026-08-03/2083954548255727668.jpg"
+    },
+    {
+      "tweet_id": "2083936616901386564",
+      "url": "https://x.com/_Brad_Mixon/status/2083936616901386564",
+      "author": "_Brad_Mixon",
+      "text": "It's time for another Cyber House Crew AI Prompt! Make your own CyberHorse 🐎 Save my image (it's a template) and upload it first and then a reference image of you in Grok or another AI. Paste the copied prompt below and run it. If you want to do it without my template, that's cool too! Try both if you want. 😃 Prompt in first reply post #TheCyberHouseCrew #CHCCyberHorse",
+      "published_at": "Sun Aug 02 15:23:01 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"AI prompt\""
+      ],
+      "likes": 20,
+      "reposts": 6,
+      "replies": 15,
+      "views": 3759,
+      "score": 35.24,
+      "preview_url": "https://pbs.twimg.com/media/HOuhTtYXEAAnACg.jpg?name=orig",
+      "preview_path": "assets/2026-08-03/2083936616901386564.jpg"
+    }
+  ]
+}
