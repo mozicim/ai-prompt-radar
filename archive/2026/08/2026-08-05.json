@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-05",
+  "count": 1,
+  "method": "public-search-rss-plus-keyless-public-embed",
+  "items": [
+    {
+      "tweet_id": "2084693239836401907",
+      "url": "https://x.com/bfl_ai/status/2084693239836401907",
+      "author": "bfl_ai",
+      "text": "Draft mode: explore creative directions fast at a fraction of the cost. A draft generation returns a fast preview of your prompt for $0.06 per second. When a draft is right, send it back and FLUX 3 will render the same video at full quality (retains the subjects, composition, movement) from $0.17 per second, competitive with frontier video at the same quality.",
+      "published_at": "Tue Aug 04 17:29:34 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Midjourney\" OR \"Flux\") prompt"
+      ],
+      "likes": 153,
+      "reposts": 5,
+      "replies": 5,
+      "views": 13683,
+      "score": 48.44,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2084693216297938944/img/O26omGxlxY_lUYWN.jpg",
+      "preview_path": "assets/2026-08-05/2084693239836401907.jpg"
+    }
+  ]
+}
