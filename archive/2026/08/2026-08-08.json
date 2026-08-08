@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-08",
+  "count": 1,
+  "method": "public-search-rss-plus-keyless-public-embed",
+  "items": [
+    {
+      "tweet_id": "2081603976840012036",
+      "url": "https://x.com/BIGMayrr/status/2081603976840012036",
+      "author": "BIGMayrr",
+      "text": "Mayor. (@BIGMayrr) on X 2 weeks ago - Workflow: Researches a trending history or true-crime topic, drafts a 12-minute engaging script, creates Midjourney/FLUX image prompts for every 5 seconds of footage, and outputs an XML timeline for CapCut or Premiere.",
+      "published_at": "Mon Jul 27 04:53:57 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Midjourney\" OR \"Flux\") prompt"
+      ],
+      "likes": 38,
+      "reposts": 6,
+      "replies": 10,
+      "views": 10076,
+      "score": 51.12,
+      "preview_url": "",
+      "preview_path": ""
+    }
+  ]
+}
