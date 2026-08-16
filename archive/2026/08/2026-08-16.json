@@ -1,0 +1,75 @@
+{
+  "date": "2026-08-16",
+  "count": 4,
+  "method": "public-search-rss-plus-keyless-public-embed",
+  "items": [
+    {
+      "tweet_id": "2081698760124686704",
+      "url": "https://x.com/Arzoo12sh/status/2081698760124686704",
+      "author": "Arzoo12sh",
+      "text": "video prompt: A cinematic macro miniature scene of tiny school children wearing white school shirts, red neckties, navy blue shorts, black shoes, and colorful backpacks, carefully walking and climbing a long muddy stone staircase in a lush forest after rain. The stone steps are covered with green moss, wet soil, and small pebbles. The children look adorable with realistic facial expressions and slightly oversized heads in a miniature style. Ultra-realistic macro photography, shallow depth of field, soft natural lighting, highly detailed textures, dreamy bokeh background, 8K, photorealistic, vertical 9:16 composition, heartwarming atmosphere, smooth cinematic camera movement.",
+      "published_at": "Mon Jul 27 11:10:35 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"video prompt\" AI"
+      ],
+      "likes": 184,
+      "reposts": 49,
+      "replies": 42,
+      "views": 14038,
+      "score": 66.09,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2081698677060747264/img/9hbd-F6BurxwHOxZ.jpg",
+      "preview_path": "assets/2026-08-16/2081698760124686704.jpg"
+    },
+    {
+      "tweet_id": "2082010903097311553",
+      "url": "https://x.com/umesh_ai/status/2082010903097311553",
+      "author": "umesh_ai",
+      "text": "Flux 3 is incredible at split screen generations! Prompt : 15-second split-screen video, two equal vertical halves, one continuous take, no cuts. Both cameras show the same event at the same time, perfectly frame-synchronized. Scene: Calm lake at dusk. An old fisherman in a small wooden rowboat pulls a rope from the water. Left: Water-level camera from another boat. Show only the fisherman, boat, rope above water, ripples, and splashes. Nothing below the waterline is visible. Right: Underwater camera looking up. The rope leads to a sunken bicycle tangled in glowing green weeds, surrounded by small silver fish. 0–6s: The fisherman pulls. Left: he strains and the boat rocks. Right: the bicycle rises with every matching tug. 6–11s: A violent jolt. Left: he nearly falls backward. Right: a wheel catches on a rock, then pops free on the exact same frame. Fish scatter. 11–15s: The bicycle crosses the surface continuously. It must appear above water on the left only when that exact part crosses the waterline on the right. Both halves must match its height, angle, motion, rope tension, splashes, and timing frame by frame. Once fully raised, the fisherman stares, then laughs. No duplicate bicycle, broken rope, teleporting, timing offset, or camera change. Upscaled with Topaz Astra. @bfl_ai",
+      "published_at": "Tue Jul 28 07:50:55 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Midjourney\" OR \"Flux\") prompt"
+      ],
+      "likes": 254,
+      "reposts": 20,
+      "replies": 19,
+      "views": 18725,
+      "score": 54.11,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2082010486925910016/img/mmlugUbnEmrXDugu.jpg",
+      "preview_path": "assets/2026-08-16/2082010903097311553.jpg"
+    },
+    {
+      "tweet_id": "2081465224503459969",
+      "url": "https://x.com/jerrod_lew/status/2081465224503459969",
+      "author": "jerrod_lew",
+      "text": "Prompt: Cinematic movie scene, an overcast, windy and storm day, a woman with a Scottish accent stands on the top of a cliff looking over the rough Scottish highlands seas, the wind moving her long brown hair, the scene starts wide with her in the distance looking over the sea, it then cuts to her side where she looks at the camera, smiles and says: \"It's not perfect, but it's home for me.\"",
+      "published_at": "Sun Jul 26 19:42:35 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Midjourney\" OR \"Flux\") prompt"
+      ],
+      "likes": 7,
+      "reposts": 0,
+      "replies": 0,
+      "views": 478,
+      "score": 32.88,
+      "preview_url": "",
+      "preview_path": ""
+    },
+    {
+      "tweet_id": "2088441032879051125",
+      "url": "https://x.com/Arzoo12sh/status/2088441032879051125",
+      "author": "Arzoo12sh",
+      "text": "🎬 Video Prompt Create a cinematic surreal 3D animation on a wooden desk. Start with a giant black ant slowly crawling toward a tiny frightened bearded man sitting inside a cardboard box. The man is wrapped in a red-and-white checkered blanket and begins crying in fear, with tears and water dripping from his messy spiky hair and clothes. He looks at the ant, screams and moves backward inside the box while the ant slowly moves its legs and approaches him. Add subtle camera movement, realistic character animation, natural water droplets, expressive facial reactions, shallow depth of field, warm cinematic lighting, realistic desk objects in the background, smooth motion, dramatic yet funny atmosphere, vertical 9:16, high-quality 3D animation.",
+      "published_at": "Sat Aug 15 01:41:58 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"video prompt\" AI"
+      ],
+      "likes": 3,
+      "reposts": 0,
+      "replies": 0,
+      "views": 318,
+      "score": 31.02,
+      "preview_url": "",
+      "preview_path": ""
+    }
+  ]
+}
