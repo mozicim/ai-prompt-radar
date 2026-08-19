@@ -1,0 +1,58 @@
+{
+  "date": "2026-08-19",
+  "count": 3,
+  "method": "public-search-rss-plus-keyless-public-embed",
+  "items": [
+    {
+      "tweet_id": "2089632599534940450",
+      "url": "https://x.com/Heyabhi29/status/2089632599534940450",
+      "author": "Heyabhi29",
+      "text": "1/ Cinematic upgrade Use this when you want a normal video to look more professional. Prompt: Edit this video into a cinematic clip. Keep [main subject] unchanged. Improve the lighting to look like [lighting style]. Add [camera movement], [colour style], and [visual mood]. Do not change [details that must stay the same]. Example: Edit this video into a cinematic clip. Keep my face and outfit unchanged. Improve the lighting to look like warm sunset light. Add slow camera movement, soft contrast, and a calm luxury mood. Do not change the background or my body movement.",
+      "published_at": "Tue Aug 18 08:36:49 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"video prompt\" AI"
+      ],
+      "likes": 20,
+      "reposts": 1,
+      "replies": 1,
+      "views": 4435,
+      "score": 42.31,
+      "preview_url": "",
+      "preview_path": ""
+    },
+    {
+      "tweet_id": "2089632606233215449",
+      "url": "https://x.com/Heyabhi29/status/2089632606233215449",
+      "author": "Heyabhi29",
+      "text": "3/ Object removal Use this when you want to remove something from the video. Prompt: Remove [object to remove] from this video. Fill the space naturally using the surrounding background. Keep [main subject], [lighting], and [camera movement] unchanged. Make the edit clean and realistic. Example: Remove the water bottle from this video. Fill the space naturally using the surrounding table and background. Keep the person, lighting, and camera movement unchanged. Make the edit clean and realistic.",
+      "published_at": "Tue Aug 18 08:36:51 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"video prompt\" AI"
+      ],
+      "likes": 2,
+      "reposts": 0,
+      "replies": 1,
+      "views": 3502,
+      "score": 31.08,
+      "preview_url": "",
+      "preview_path": ""
+    },
+    {
+      "tweet_id": "2089632631042555967",
+      "url": "https://x.com/Heyabhi29/status/2089632631042555967",
+      "author": "Heyabhi29",
+      "text": "10/ Camera angle change Use this when you want the video to feel more dramatic. Prompt: Recreate this scene from a [new camera angle]. Keep [main subject], [action], and [important details] consistent. Adjust [ligthing], [shadows], and [background perspective] to match the new angle. Example: Recreate this scene from a low-angle hero shot. Keep the speaker, action, and outfit consistent. Adjust the lighting, shadows, and background perspective to match the new angle.",
+      "published_at": "Tue Aug 18 08:36:57 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"video prompt\" AI"
+      ],
+      "likes": 3,
+      "reposts": 0,
+      "replies": 0,
+      "views": 1096,
+      "score": 30.09,
+      "preview_url": "",
+      "preview_path": ""
+    }
+  ]
+}
