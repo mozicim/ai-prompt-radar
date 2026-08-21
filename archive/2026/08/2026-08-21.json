@@ -1,0 +1,92 @@
+{
+  "date": "2026-08-21",
+  "count": 5,
+  "method": "public-search-rss-plus-keyless-public-embed",
+  "items": [
+    {
+      "tweet_id": "2090556776156742071",
+      "url": "https://x.com/aimikoda/status/2090556776156742071",
+      "author": "aimikoda",
+      "text": "MiniMax H3 with GPT Image 2 Storyboards I think we can safely say storyboards work incredibly well with MiniMax H3. I'd definitely recommend adding storyboards to your workflow. I didn't include any scene descriptions in the video prompt at all. Its ability to understand reference images is really impressive. MiniMax H3 Prompt for this video: Use the storyboard @[storyboard ref] as sequential shot guidance, not as a static image. Do not treat the storyboard as one image. Follow each panel as a separate beat. Use @[character ref] as character reference. She talks while preparing the latte: まずはエスプレッソを淹れます。 ミルクをなめらかにスチームして、ゆっくり注ぎます。 カップに近づけて、模様を描いていきます。 最後にひと仕上げ。ラテアートの完成です。 -- You can find storyboard and character image prompt in the replies.",
+      "published_at": "Thu Aug 20 21:49:10 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"image prompt\" Midjourney"
+      ],
+      "likes": 176,
+      "reposts": 16,
+      "replies": 12,
+      "views": 5469,
+      "score": 54.33,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2090556650885144576/img/X6puWjJ4R4I9tBW1.jpg",
+      "preview_path": "assets/2026-08-21/2090556776156742071.jpg"
+    },
+    {
+      "tweet_id": "2090089877341974549",
+      "url": "https://x.com/AI_with_Antonio/status/2090089877341974549",
+      "author": "AI_with_Antonio",
+      "text": "Where precision becomes art and time is reimagined. Check out this meticulously crafted 10-second cinematic video prompt for the iconic A. Lange & Söhne Zeitwerk. Created with @nemovideoai",
+      "published_at": "Wed Aug 19 14:53:53 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"video prompt\" AI"
+      ],
+      "likes": 278,
+      "reposts": 9,
+      "replies": 57,
+      "views": 46382,
+      "score": 50.09,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2090089460952346624/img/8sGmEq7AHQu4Ki-8.jpg",
+      "preview_path": "assets/2026-08-21/2090089877341974549.jpg"
+    },
+    {
+      "tweet_id": "2090256825417650512",
+      "url": "https://x.com/Arzoo12sh/status/2090256825417650512",
+      "author": "Arzoo12sh",
+      "text": "Video Prompt (Matching Scene):2 A miniature angry man sits on a giant sliced mango while a colony of giant black ants carries the mango across a sunny tropical beach. The ants walk steadily over the sand as ocean waves move gently in the background. The tiny man keeps his arms crossed and looks frustrated. Cinematic camera tracking shot, macro lens effect, realistic ant movement, detailed mango textures, tropical daylight, soft shadows, shallow depth of field, photorealistic, ultra-detailed, 4K, viral AI video, smooth motion, whimsical fantasy realism.",
+      "published_at": "Thu Aug 20 01:57:16 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"video prompt\" AI"
+      ],
+      "likes": 3,
+      "reposts": 0,
+      "replies": 0,
+      "views": 147,
+      "score": 35.35,
+      "preview_url": "",
+      "preview_path": ""
+    },
+    {
+      "tweet_id": "2090113397929218518",
+      "url": "https://x.com/AIPromptLabAI/status/2090113397929218518",
+      "author": "AIPromptLabAI",
+      "text": "The prompt behind the concept ↓ Create a 15-second ultra-realistic cinematic product advertisement featuring one consistent stylish young creative professional wearing original, unbranded premium AI smart glasses. Use a slim matte-black frame, refined modern design, clear lenses and realistic premium materials. Show a natural progression: Person → lifestyle → product detail → cinematic hero frame. Use smooth controlled camera movement, realistic human motion, natural expressions, shallow depth of field, cinematic lighting and physically accurate reflections. Keep the same character, outfit, face and glasses design throughout. No logos, copied products, holograms, floating UI, excessive VFX, distorted hands, extra fingers, product morphing or artificial-looking effects. Final feeling: technology that feels invisible, sophisticated and naturally part of the moment.",
+      "published_at": "Wed Aug 19 16:27:21 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"AI prompt\""
+      ],
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "views": 56,
+      "score": 31.51,
+      "preview_url": "",
+      "preview_path": ""
+    },
+    {
+      "tweet_id": "2090474198431137886",
+      "url": "https://x.com/AIPromptLabAI/status/2090474198431137886",
+      "author": "AIPromptLabAI",
+      "text": "What if a product ad could feel this real? A cinematic smart mirror concept created with @Imagvio_AI. I wanted to turn a simple product idea into a complete visual story — character, environment, reflection, camera movement, and a premium hero shot. Built to explore what’s possible when AI meets product storytelling. Prompt below ↓ #AICreatives #ProductAd",
+      "published_at": "Thu Aug 20 16:21:02 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"AI prompt\""
+      ],
+      "likes": 8,
+      "reposts": 0,
+      "replies": 10,
+      "views": 34,
+      "score": 28.94,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2090474165900115975/img/6oaAmOOknMbqmwTB.jpg",
+      "preview_path": "assets/2026-08-21/2090474198431137886.jpg"
+    }
+  ]
+}
