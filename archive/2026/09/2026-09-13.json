@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-13",
+  "count": 3,
+  "method": "public-search-rss-plus-keyless-public-embed",
+  "items": [
+    {
+      "tweet_id": "2096409914461856106",
+      "url": "https://x.com/Peter05704721/status/2096409914461856106",
+      "author": "Peter05704721",
+      "text": "How I use GPT-6 Astra with Fusion 360 — copy this. 1. Open Fusion. New empty design. 2. Preferences → General → API → enable Fusion MCP Server. 3. Open Codex. Let it install/connect the Fusion MCP. 4. Prompt: connect to Fusion MCP, list tools, confirm the active document. 5. Then ask it to build your part. Put print constraints in the prompt (split shell, clearances, no thin walls). Not GPT desktop clicking. Agent + MCP. https://help.autodesk.com/view/fusion360/ENU/?guid=FMCP-OVERVIEW",
+      "published_at": "Sun Sep 06 01:27:27 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Nano Banana\" OR \"GPT Image\") prompt"
+      ],
+      "likes": 822,
+      "reposts": 88,
+      "replies": 13,
+      "views": 75026,
+      "score": 56.32,
+      "preview_url": "",
+      "preview_path": ""
+    },
+    {
+      "tweet_id": "2097037426128511469",
+      "url": "https://x.com/promptsref/status/2097037426128511469",
+      "author": "promptsref",
+      "text": "This SREF blends impressionist oil and contemporary portraiture: soft light, muted tones, visible brushwork. Ideal for luxury portraits, book covers, and brand visuals. Full prompt in comments. --sref 2565961260 #midjourney #sref",
+      "published_at": "Mon Sep 07 19:00:58 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"AI prompt\""
+      ],
+      "likes": 20,
+      "reposts": 7,
+      "replies": 2,
+      "views": 901,
+      "score": 41.89,
+      "preview_url": "https://pbs.twimg.com/media/HRosXdbWoAAdO6S.jpg?name=orig",
+      "preview_path": "assets/2026-09-13/2097037426128511469.jpg"
+    },
+    {
+      "tweet_id": "2097697794408755375",
+      "url": "https://x.com/Soaima_Ai/status/2097697794408755375",
+      "author": "Soaima_Ai",
+      "text": "Prompt: \"A dynamic, high-quality 15-second commercial for a modern aesthetic insulated travel tumbler, TikTok/Reels style, 4k resolution, cinematic commercial lighting. Fast-paced clean cuts: First, a close-up hero reveal of a sleek cream-colored tumbler. Then, hands opening the flip-lid mechanism with a satisfying click. Next, clear water and ice cubes splashing smoothly inside from a top-down view. Transition to the tumbler sitting perfectly in a car cup holder. Then, a cinematic pan across four stylish pastel color variations on a wooden table. A stylish person easily placing the lightweight tumbler into an aesthetic tote bag. Finishes with a crisp hero shot of the product with soft natural daylight and vibrant studio tones.\"",
+      "published_at": "Wed Sep 09 14:45:02 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"AI prompt\"",
+        "web:site:x.com \"video prompt\" AI"
+      ],
+      "likes": 13,
+      "reposts": 1,
+      "replies": 1,
+      "views": 1342,
+      "score": 39.4,
+      "preview_url": "",
+      "preview_path": ""
+    }
+  ]
+}
