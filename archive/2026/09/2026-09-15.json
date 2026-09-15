@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-15",
+  "count": 1,
+  "method": "public-search-rss-plus-keyless-public-embed",
+  "items": [
+    {
+      "tweet_id": "2092327562072699210",
+      "url": "https://x.com/theo/status/2092327562072699210",
+      "author": "theo",
+      "text": "1, 2, and 5 kind of come with orchestrator v2 Custom system prompt per platform is an interesting idea, I’ll play with it. Plumbing to enable it was just added. In app browser like the desktop one that the agent can control? Not sure if Apple will allow In app image/video definitely needs to happen Voice is hard because it costs money and isn’t included in the sdks or ACP bindings to use your subscriptions 🙃",
+      "published_at": "Tue Aug 25 19:05:39 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com/*/status (\"Nano Banana\" OR \"GPT Image\") prompt"
+      ],
+      "likes": 82,
+      "reposts": 0,
+      "replies": 26,
+      "views": 9316,
+      "score": 34.4,
+      "preview_url": "",
+      "preview_path": ""
+    }
+  ]
+}
