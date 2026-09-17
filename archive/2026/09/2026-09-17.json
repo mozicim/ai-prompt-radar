@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-17",
+  "count": 1,
+  "method": "public-search-rss-plus-keyless-public-embed",
+  "items": [
+    {
+      "tweet_id": "2099869503802806373",
+      "url": "https://x.com/apilpirman/status/2099869503802806373",
+      "author": "apilpirman",
+      "text": "Tips for using AI efficiently when creating AI videos: Generate an image from your video prompt first. This gives you an idea of ​​the framing, and the resulting video will be about 88% similar. This saves your credits, and saves the world's AI resources 😭.",
+      "published_at": "Tue Sep 15 14:34:38 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"video prompt\" AI"
+      ],
+      "likes": 12,
+      "reposts": 1,
+      "replies": 1,
+      "views": 496,
+      "score": 31.37,
+      "preview_url": "https://pbs.twimg.com/media/HSQ8LnRa4AAr1Ee.jpg?name=orig",
+      "preview_path": "assets/2026-09-17/2099869503802806373.jpg"
+    }
+  ]
+}
