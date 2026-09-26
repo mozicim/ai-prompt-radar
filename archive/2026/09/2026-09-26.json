@@ -1,0 +1,75 @@
+{
+  "date": "2026-09-26",
+  "count": 4,
+  "method": "public-search-rss-plus-keyless-public-embed",
+  "items": [
+    {
+      "tweet_id": "2098949498815033700",
+      "url": "https://x.com/Soaima_Ai/status/2098949498815033700",
+      "author": "Soaima_Ai",
+      "text": "① Open Gemini, Grok or GPT Image 2.0 ② Upload your image ③ Paste the prompt ④ Generate your image and video Prompt given below ⤵️",
+      "published_at": "Sun Sep 13 01:38:51 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"video prompt\" AI"
+      ],
+      "likes": 154,
+      "reposts": 29,
+      "replies": 24,
+      "views": 9562,
+      "score": 45.57,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2098949440753324032/img/ACtWSODvmlxCsY4r.jpg",
+      "preview_path": "assets/2026-09-26/2098949498815033700.jpg"
+    },
+    {
+      "tweet_id": "2103031994800304621",
+      "url": "https://x.com/Viniai_/status/2103031994800304621",
+      "author": "Viniai_",
+      "text": "Do you think this is real? No, it was created by AI. Prompt below You can try it",
+      "published_at": "Thu Sep 24 08:01:14 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"AI prompt\""
+      ],
+      "likes": 459,
+      "reposts": 36,
+      "replies": 124,
+      "views": 34002,
+      "score": 42.98,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2103031975984693248/img/85mmlC-HOiOQEwj1.jpg",
+      "preview_path": "assets/2026-09-26/2103031994800304621.jpg"
+    },
+    {
+      "tweet_id": "2100706717830951118",
+      "url": "https://x.com/promptsref/status/2100706717830951118",
+      "author": "promptsref",
+      "text": "Black, white, unforgettable. This Film Noir × Art Deco style adds cinematic silhouettes, Venetian-blind shadows, and razor-clean geometry to posters, covers, and luxury campaigns. Full prompt in comments. --sref 1745311941 #midjourney #sref",
+      "published_at": "Thu Sep 17 22:01:25 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"AI prompt\""
+      ],
+      "likes": 16,
+      "reposts": 1,
+      "replies": 2,
+      "views": 782,
+      "score": 38.7,
+      "preview_url": "https://pbs.twimg.com/media/HSc1iNsXkAETHQj.jpg?name=orig",
+      "preview_path": "assets/2026-09-26/2100706717830951118.jpg"
+    },
+    {
+      "tweet_id": "2103027486867226802",
+      "url": "https://x.com/EvaahereAi/status/2103027486867226802",
+      "author": "EvaahereAi",
+      "text": "3/ Object removal Use this when you want to remove something from the video. Prompt: Remove [object to remove] from this video completely. Reconstruct the missing area using realistic background details from the surrounding scene. Keep [main subject], lighting, shadows, camera movement, and overall composition unchanged. Ensure the removal looks natural with no visible editing artifacts. Example: Remove the water bottle from this video completely.Reconstruct the area using the surrounding table texture and background details. Keep the person, lighting, shadows, and camera movement unchanged. Ensure the final result looks clean and realistic.",
+      "published_at": "Thu Sep 24 07:43:19 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"video prompt\" AI"
+      ],
+      "likes": 2,
+      "reposts": 0,
+      "replies": 1,
+      "views": 1362,
+      "score": 30.26,
+      "preview_url": "",
+      "preview_path": ""
+    }
+  ]
+}
