@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-27",
+  "count": 1,
+  "method": "public-search-rss-plus-keyless-public-embed",
+  "items": [
+    {
+      "tweet_id": "2114979298532802982",
+      "url": "https://x.com/Sadiya_50/status/2114979298532802982",
+      "author": "Sadiya_50",
+      "text": "AI video generation is getting out of control Created with Seedance 2.5 Prompt below: ⤵️",
+      "published_at": "Tue Oct 27 07:15:33 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"video prompt\" AI"
+      ],
+      "likes": 11,
+      "reposts": 2,
+      "replies": 9,
+      "views": 903,
+      "score": 32.17,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2114979246649307136/img/bLc-2JVsli1crZ1d.jpg",
+      "preview_path": "assets/2026-10-27/2114979298532802982.jpg"
+    }
+  ]
+}
