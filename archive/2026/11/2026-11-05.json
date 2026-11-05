@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-05",
+  "count": 2,
+  "method": "public-search-rss-plus-keyless-public-embed",
+  "items": [
+    {
+      "tweet_id": "2110189879682572617",
+      "url": "https://x.com/ElsaSofia__AI/status/2110189879682572617",
+      "author": "ElsaSofia__AI",
+      "text": "Can't believe this video made by AI 🔥 Seedance 2.5 Prompt: ⤵️",
+      "published_at": "Wed Oct 14 02:04:07 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"video prompt\" AI"
+      ],
+      "likes": 117,
+      "reposts": 10,
+      "replies": 68,
+      "views": 5783,
+      "score": 43.81,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2110189748937801728/img/L_3vhA15eg5-z18X.jpg",
+      "preview_path": "assets/2026-11-05/2110189879682572617.jpg"
+    },
+    {
+      "tweet_id": "2116878927041839409",
+      "url": "https://x.com/openclipsai/status/2116878927041839409",
+      "author": "openclipsai",
+      "text": "GPT-6.1 Terra's prompt: Create a photorealistic, cinematic 10-second video in 16:9 at 720p. 0–3s: A wide tracking shot follows a young woman pedalling a vintage bicycle along a narrow coastal cliff road at sunset. The sea stretches below her as a dark storm rolls in behind her. Strong wind whips her hair and clothes. 3–6s: A low side shot moves alongside the bicycle. Its wheels spin over the rough road as she pedals faster, gripping the handlebars. An old lighthouse appears ahead. 6–10s: The camera follows from behind as she reaches the lighthouse and brakes beside its weathered entrance. At that exact moment, the first lightning bolt strikes in the distance over the sea, briefly lighting the dark clouds. She looks toward the flash. Native sound: rushing wind, distant waves, bicycle wheels rattling over the road, the rhythmic whir of the chain and her breath. A sharp crack of thunder follows the lightning. No music, dialogue, other people, on-screen text, titles or logos.",
+      "published_at": "Sun Nov 01 13:04:00 +0000 2026",
+      "discovered_by": [
+        "web:site:x.com \"video prompt\" AI"
+      ],
+      "likes": 4,
+      "reposts": 0,
+      "replies": 1,
+      "views": 65,
+      "score": 35.74,
+      "preview_url": "",
+      "preview_path": ""
+    }
+  ]
+}
